@@ -76,9 +76,9 @@ This portfolio contributes to **AI research** in **agriculture, healthcare, and 
 
 
 For inquiries, contact 
-**Samson Mhango**: [sambanankhumhango@gmail.com](mailto:sambanankhumhango@gmail.com)
-**Dr. Chimango Nyasulu**: [nyasulu.c@mzuni.ac.mw](mailto:nyasulu.c@mzuni.ac.mw)  
-**Mr. Donald Phiri**: [phiri.d@mzuni.ac.mw](mailto:phiri.d@mzuni.ac.mw)  
+- **Samson Mhango**: [sambanankhumhango@gmail.com](mailto:sambanankhumhango@gmail.com)
+- **Dr. Chimango Nyasulu**: [nyasulu.c@mzuni.ac.mw](mailto:nyasulu.c@mzuni.ac.mw)  
+- **Mr. Donald Phiri**: [phiri.d@mzuni.ac.mw](mailto:phiri.d@mzuni.ac.mw)  
 
 ---
 
