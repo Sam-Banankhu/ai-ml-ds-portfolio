@@ -1,0 +1,280 @@
+<resources>
+    <string name="app_name">FARMWISE</string>
+    <string name="home">Teeru</string>
+    <string name="help">Jëfandikukat</string>
+    <string name="about">Ci sunu mbir</string>
+    <string name="settings">Dëkkaay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exit">genn</string>
+    <string name="confirm_exit">-- Dëggal --</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm_exit_text">Ngir wóor ne du ay jëfandikoo yu ñuul, ndax bëgg nga dëgg-dëgg a génn app bi?
+</string>
+    <string name="recommendation">Jëfandikoo</string>
+    <string name="about_project">Jëf boobu, ci wàllu xam-xami xam-xami jëfandikoo ak teknoloj, ci Iniwersite bu Gaston Berger, ci ndimbalug PASET-Regional Scholarship and Innovation Fund (RSIF) lañ ko jëfe. Jëfandikoo na ko ci \"Sénégal 2020\" ngir gën a xam ni, ci jamonoy 2020 la, réew yi gën a am solo ci wàllu koom-koom, ci wàllu koom-koom, ci wàllu koom-koom ak ci wàllu koom-koom.
+</string>
+
+    <string name="about_contacts">Mbootaayug Gaston Berger\nBP 234 Saint-Louis Senegaal \nEmail: nyasulu.chimango@ugb.edu.sn </string>
+    <string name="question_mark">\?</string>
+    <string name="step11text">[Waxtu ci xët wi] tànn ab bérab bi nga bëgg a gis ay xëtam yu jëm ci jamono ji, di ko dawal ci Station(s) ni mu feeñ ci foto bi. Jëfandikukat:C.C.C.C.C.C.C. Tànnal \"OK\" ci suufu ndeyjoor.</string>
+    <string name="step12text">Tànnal jamono ji ñu war a wone ay téere (bés bu nekk, ayu-bés, weer walla at mu nekk).
+</string>
+    <string name="step13text">Tànnal ay bés yu war a nekk ci say xët. Jamono yi dañuy wéy ci jamono ji ñu tànn.
+</string>
+    <string name="step21text"> [BËY ci xët wi] tànn ab station bu nga bëgg ne PREDICTION di ko jëfe ci di ko daaneel ci \"Station (s) \" ni ñu ko won ci foto bi. Jëfandikukat:C.C.C.C.C.C.C. Dafaal "OK" ci suufu ndeyjoor.</string>
+    <string name="step22text">Ci suufu Station (s) (ni mel ni ci foto bi ci kaw), klikal ci drop down box bi lay wone ay jëmm yu ñu mën a jëfandikoo ngir xam-xam bi. Ci ndab li ñu yokk, klik ci ndab bi ngir tànn ko. Tànnal " àll yépp " ngir gis ay jamonoy jëmbat ak a góob ci àll yépp, walla tànnal ab àll ngir gis ay jamonoy jëmbat yu takku.
+</string>
+    <string name="step23text">Ci ndijooru jëmbët yi (ci melokaan bi ci kaw), am na beneen téere bu ñuy dalal ci at yi, klik ci ko ngir tànn benn at bu wóor bu ngeen bëggoon a xam bu ngeen mana jëmbët mbaa dajale seen jëmbët bi ngeen tànn.</string>
+    <string name="topic2">Naka lañu war a seet jamono ji ñu yaakaar ne nit dina jëmbat benn xeetu jëmbat bu dëppoo ak diiwaan bu nekk.</string>
+    <string-array name="stations">
+        <item>ROSSO</item>
+        <item>SAINT-LOUIS</item>
+        <item>LINGUERE</item>
+        <item>MATAM</item>
+        <item>DIOURBEL</item>
+        <item>KAOLACK</item>
+        <item>TAMBACOUNDA</item>
+        <item>CAP-SKIRRING</item>
+        <item>KOLDA</item>
+        <item>KEDOUGOU</item>
+    </string-array>
+
+    <string-array name="stations_respective_latitudes">
+        <item>16.5</item>
+        <item>16.05</item>
+        <item>15.367</item>
+        <item>15.617</item>
+        <item>14.65</item>
+        <item>14.133</item>
+        <item>13.767</item>
+        <item>12.4</item>
+        <item>12.883</item>
+        <item>12.567</item>
+    </string-array>
+
+    <string-array name="stations_respective_longitudes">
+        <item>-15.817</item>
+        <item>-16.483</item>
+        <item>-15.117</item>
+        <item>-13.25</item>
+        <item>-16.233</item>
+        <item>-16.067</item>
+        <item>-13.683</item>
+        <item>-16.75</item>
+        <item>-14.967</item>
+        <item>-12.217</item>
+    </string-array>
+
+    <string-array name="period">
+        <item>Bés bu nekk</item>
+        <item>Ci weer</item>
+        <item>weer</item>
+        <!-- <item>at mu nekk </item>-->
+    </string-array>
+
+    <integer-array name="period_for_selection">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="months_abbrev">
+        <item>Sam</item>
+        <item>Few</item>
+        <item>Mar</item>
+        <item>Awr</item>
+        <item>Mee</item>
+        <item>Suw</item>
+        <item>Sul</item>
+        <item>Aou</item>
+        <item>Sat</item>
+        <item>Okt</item>
+        <item>Now</item>
+        <item>Dis</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>Samwiye</item>
+        <item>Fewriyee</item>
+        <item>Maars</item>
+        <item>Awril</item>
+        <item>Mee</item>
+        <item>Suwe</item>
+        <item>Sulet</item>
+        <item>Aout</item>
+        <item>Sattumbar</item>
+        <item>Oktoobar</item>
+        <item>Nowembar</item>
+        <item>Disembar</item>
+    </string-array>
+
+    <string-array name="crops">
+        <item>Areen</item>
+        <item>Gàncax</item>
+        <item>Mbog</item>
+        <item>Riis</item>
+        <item>Kamaate </item>
+        <item>Soble</item>
+        <item>Jëwriñ</item>
+    </string-array>
+    <!--these crop names need not to be changed/translated, they are used to much with those in the database-->
+    <string-array name="crops_for_queries">
+        <item>Peanut</item>
+        <item>Millet</item>
+        <item>Maize</item>
+        <item>Rice</item>
+        <item>Tomato</item>
+        <item>Onion</item>
+        <item>Egg Plant</item>
+    </string-array>
+
+    <!--RECOMMENDATIONS TEXTS-->
+
+    <string name="harvestable_period">Ñaari muuse: %1$d</string>
+    <string name="harvestable_period2">Ñaari muuse: %1$d, ñaari yépp muuse: %2$d </string>
+    <string name="harvestable_period_weeks">Ñett %1$s ci %2$s nga ñett %3$s ci %4$s</string>
+    <string name="planting_week_text">Jëm %1$s ci Ñett %2$s ci %3$s</string>
+    <string name="to_text">si</string>
+
+    <!--CROPS-->
+    <string name="all_crops">Jëf yépp</string>
+    <string name="Peanut">Areen</string>
+    <string name="Millet">Gàncax</string>
+    <string name="Maize">Mbog</string>
+    <string name="Rice">Riis</string>
+    <string name="Tomato">Kamaate</string>
+    <string name="Onion">Soble</string>
+    <string name="Egg_Plant">Jëwriñ</string>
+    <!--INFO TEXTS -->
+    <string name="recommendation_for_chosen_station_text">Jëfandikoo ci %1$s, ci %2$s</string>
+    <string name="recommendation_for_not_chosen_station_text">Jëfandikukat bu %1$s</string>
+    <string name="select_station_info">[Jëfekaay bi]</string>
+    <string name="stations_text">Stasiyoŋ</string>
+    <string name="recommendation_for_default_text">Jëfandikukat:</string>
+    <string name="day">Bés</string>
+    <string name="week">Ayubés </string>
+    <string name="start">TÀNGAL</string>
+    <string name="week_">Ayubés:</string>
+    <string name="month_">Weeru:</string>
+    <string name="month">WEERU</string>
+    <string name="_2023">2023</string>
+    <string name="approx_date">Yoonu jëm:</string>
+    <string name="end">JUM</string>
+    <string name="approximated_time_to_sow_text">Jamonoy jiwu</string>
+    <string name="approximated_time_to_harvest_text">Jamonoy daaneel</string>
+    <string name="approx_dates">Yoonu jëmm yi:</string>
+    <string name="all_crops_recommendations_text">Jëfandikoo ci jëmm yépp</string>
+    <!--END RECOMMENDATION ACTIVITY-->
+
+    <!--WEATHER FORECAST-->
+    <string name="annually">At mu nekk</string>
+    <string name="monthly">Weer</string>
+    <string name="weekly">Ci weer wi</string>
+    <string name="daily">Bés bu nekk</string>
+    <string name="week_first_letter">W</string>
+    <string name="minimum_average_text">Moyenne minimale</string>
+    <string name="maximum_average_text">Moyenne maximale</string>
+    <string name="average_text">Moyenne</string>
+    <string name="average_humidity_text">Humidité moyenne</string>
+    <string name="rainfall">Jëf</string>
+    <string name="select_all_fields_info">Tànnal àll yi yépp</string>
+    <string name="validation_year_info">Xët wi Year la nekk naataa jëm Year la</string>
+    <string name="validation_month_info">[Moggu xët wi] moo joxoo jëm [Moggu jëm xët wi naa] xët wi moo yi jëm</string>
+    <string name="default_parameters_set_info">Jëfandikukat default yi mucc nañu</string>
+    <string name="period_days_text">Jamono (Ay fan)</string>
+    <string name="period_weeks_text">Jamono (Weer yi)</string>
+    <string name="period_months_text">Jamono (At yi)</string>
+    <string name="period_years_text">Jamono (Jëmm)</string>
+    <string name="temperature_text_with_symbol">Jëfekaay (℃)</string>
+    <string name="rainfall_mm">Jëf (mm)</string>
+    <string name="rela_humidity">Déggal. Humidité (%)</string>
+    <string name="temperature_text">Jëfekaay</string>
+    <string name="select_date">[Xoolal jëm</string>
+    <string name="humidity_text">Humidité</string>
+    <string name="relative_humidity_with_symbol">Déggal. Humidité (%)</string>
+    <string name="weather_visualization_text">Wàll wi ñu gis</string>
+    <string name="bar_graphs_line_graphs_and_summaries">Graaf yu bari yi, graaf yu bari yi ak ay mujj</string>
+    <string name="recommendations_text">Nopp nañu</string>
+    <string name="disease_detection">Jëfandikoo jàngoro</string>
+    <string name="sowing_and_harvesting_periods_recommendation">Jëfandikoo ay jamonoy jiwu ak a góob</string>
+    <string name="crop_disease_detection">Jëfandikoo jàngoroy jëmm</string>
+    <string name="detection_of_common_diseases">Jëfandikoo jàngoro yu am solo ci jëmbat yi ak ay walli</string>
+    <string name="responding_to_climate_change">--Jëfandikoo ay way-jur--</string>
+
+
+    <!--DISEASE DETECTION-->
+    <string-array name="classes">
+        <item>Alternaria bu lewet</item>
+        <item>Alternaria Médérée</item>
+        <item>Alternaria bu metti</item>
+        <item>Curvularia bu lewet</item>
+        <item>Curvularia Modérée</item>
+        <item>Curvularia bu metti</item>
+        <item>Sëriñ bi</item>
+        <item>Helminthosporium Mild</item>
+        <item>Helminthosporium Modérée</item>
+        <item>Helminthosporium bu metti</item>
+        <item>Lasiodiplodia Mild</item>
+        <item>Lasiodiplodia Modéré</item>
+        <item>Lasiodiplodia bu metti</item>
+    </string-array>
+
+
+    <string name="results_confidence">Ak wóolu: %s%%</string>
+
+    <!--TREATMENT-->
+    <!--Treatments/recommended treatments have deliberately dublicated so that it is easy to change treatment for one specific disease-->
+    <string name="d0_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d1_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d2_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d3_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d4_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d5_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d7_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d8_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d9_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d10_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d11_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+    <string name="d12_treat">Mën nga jëfandikoo chlorothalonil walla copper fungicides\n</string>
+
+
+    <string name="no_disease_detected">Kenn jàngoro du feeñ</string>
+    <string name="disease_not_known">Du xam</string>
+    <string name="take_picture">Jëfandikoo foto</string>
+    <string name="launch_gallery">Dëkk Galeri</string>
+    <string name="classified_as">Jëfandikukaayu jëkk:</string>
+    <string name="how_to_visualize_data_of_a_spec">Naka lañuy feeñal xët yi ci benn bérab bu ñu xam ni mu mel ci ab diir bu bees.</string>
+    <string name="go_to_home">Demal kër</string>
+    <string name="weather_forecast">Sëriñ bi</string>
+    <string name="change_language">Soppi làkk</string>
+    <string name="lang_abbrev">wo</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_range">[Jëm] - [boroom]</string>
+    <string name="add_current_selection_to_default">Yokk tànneef bi nekk ci default\?</string>
+    <string name="add_to_default_content_text">Xam-xam yi ngay won ci sa màndiŋ mooy xam-xam yi ngay won ci anam bu ñuul bi ngay tàmbalee app bi.</string>
+    <string name="station_name">Turug taxawaay :</string>
+    <string name="period_interval">Jëfekaay bi :</string>
+    <string name="not_now">Léegi du</string>
+    <string name="yes_add">Waaw, yokk</string>
+    <string name="choose_station">Tànnal ab bérab</string>
+    <string name="approx_planting_period">Lu tollu ci jamonoy jëmbat</string>
+    <string name="approx_harvesting_period">Lu tollu ci jamonoy góob</string>
+    <string name="about_the_project">Lu jëm ci porojek bi</string>
+    <string name="contacts">Noppu</string>
+    <string name="tomato_disease_detection">Jëfandikoo jàngoroy tomat</string>
+    <string name="pick_date_range">Nopp jëm boroom</string>
+    <string name="start_date">Jëm naa jëmm:</string>
+    <string name="end_date">Jëm wi jëmm:</string>
+    <string name="year">At</string>
+    <string name="to">ci</string>
+    <string name="sowing_rainfall_mm">Ndaw biiru tànnu \u00A0 \u00A0 \u00A0 \u00A0:</string>
+    <string name="min_rainfall_mm">Biiru yombu (mm) buñu:</string>
+    <string name="max_rainfall_mm">Biiru uddu (mm) buñu:</string>
+    <string name="min_temperature">Temperatuur yombu :</string>
+    <string name="max_temperature">Temperatuur uddu :</string>
+    <string name="sowing_requirements">Tànninaay yi tànnu:</string>
+
+</resources>

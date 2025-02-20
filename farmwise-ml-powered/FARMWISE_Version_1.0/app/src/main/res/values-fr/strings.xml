@@ -1,0 +1,283 @@
+<resources>
+    <string name="app_name">FARMWISE</string>
+    <string name="home">Accueil</string>
+    <string name="help">Aide</string>
+    <string name="about">À propos de nous</string>
+    <string name="settings">Paramètres</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="exit">Sortie</string>
+    <string name="confirm_exit">— Confirmer la sortie —</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="confirm_exit_text">Juste pour être sûr qu\'il ne s\'agissait pas d\'une opération involontaire, voulez-vous vraiment quitter l\'application \?</string>
+    <string name="recommendation">Recommandation</string>
+    <string name="about_project">Ce projet a été mis en œuvre à la Faculté des sciences appliquées et de la technologie - Université de Gaston Berger avec l\'aide financière du Fonds régional de bourses d\'études et d\'innovation PASET (RSIF).\n\n\nPour assurer la sécurité alimentaire et le développement économique continu en Afrique, il est très important de faire face et de s\'adapter au changement climatique. L\'objectif de ce projet est de renforcer la résilience des agriculteurs aux changements climatiques hostiles au Sénégal grâce à des modèles basés sur l\'apprentissage automatique adaptés au contexte des prévisions météorologiques quotidiennes et de la détection des maladies des cultures.
+</string>
+
+
+    <string name="about_contacts">L\'équipe du projet, Université de Gaston Berger\nBP 234 Saint-Louis Sénégal \nEmail: nyasulu.chimango@ugb.edu.sn </string>
+    <string name="question_mark">\?</string>
+    <string name="step11text">[PENDANT LA PAGE [\"Prévisions météo\"] Choisissez une station dont vous souhaitez visualiser les données météo en cliquant sur \"Station(s)\" comme indiqué sur la photo. La fenêtre contextuelle de toutes les stations météo s\'affiche, où vous pouvez choisir une station en cochant un bouton radio à gauche. Cliquez sur le bouton \"OK\" en bas à droite.</string>
+    <string name="step12text">Choisissez l\'intervalle de temps pour afficher les données (quotidien, hebdomadaire, mensuel ou annuel).</string>
+    <string name="step13text">Spécifiez les dates pour lesquelles vos données doivent être affichées. Les dates dépendent de l\'intervalle de temps choisi.</string>
+    <string name="step21text"> [PENDANT LA PAGE \"Recommandation\"] Choisissez une station sur laquelle baser la PRÉDICTION en cliquant sur \"Station(s)\" comme indiqué sur la photo. La fenêtre contextuelle de toutes les stations météo s\'affiche, où vous pouvez choisir une station en cochant un bouton radio à gauche. Cliquez sur le bouton \"OK\" en bas à droite.</string>
+    <string name="step22text">Sous la rubrique \"Station(s) (comme sur la photo ci-dessus)\", cliquez sur la liste déroulante qui affiche les cultures disponibles sur lesquelles la prédiction sera basée. Dans la liste élargie des cultures, cliquez sur la culture pour la sélectionner. Sélectionnez \"toutes les cultures\" pour voir les périodes approximatives de plantation et de récolte pour toutes les cultures disponibles, ou choisissez une culture pour voir une approximation spéciale.</string>
+
+
+    <string name="step23text">À droite des cultures (comme sur la photo ci-dessus), il y a une autre liste déroulante des années, cliquez dessus pour choisir une année spécifique pour savoir quand vous pouvez planter ou récolter vos cultures choisies.</string>
+    <string name="topic2">Comment vérifier le moment où on est censé planter un certain type de culture en fonction d\'une région.</string>
+
+    <string-array name="stations">
+        <item>ROSSO</item>
+        <item>SAINT-LOUIS</item>
+        <item>LINGUERE</item>
+        <item>MATAM</item>
+        <item>DIOURBEL</item>
+        <item>KAOLACK</item>
+        <item>TAMBACOUNDA</item>
+        <item>CAP-SKIRRING</item>
+        <item>KOLDA</item>
+        <item>KEDOUGOU</item>
+    </string-array>
+
+    <string-array name="stations_respective_latitudes">
+        <item>16.5</item>
+        <item>16.05</item>
+        <item>15.367</item>
+        <item>15.617</item>
+        <item>14.65</item>
+        <item>14.133</item>
+        <item>13.767</item>
+        <item>12.4</item>
+        <item>12.883</item>
+        <item>12.567</item>
+    </string-array>
+
+    <string-array name="stations_respective_longitudes">
+        <item>-15.817</item>
+        <item>-16.483</item>
+        <item>-15.117</item>
+        <item>-13.25</item>
+        <item>-16.233</item>
+        <item>-16.067</item>
+        <item>-13.683</item>
+        <item>-16.75</item>
+        <item>-14.967</item>
+        <item>-12.217</item>
+    </string-array>
+
+    <string-array name="period">
+        <item>Quotidiennement</item>
+        <item>Hebdomadairement</item>
+        <item>Mensuellement</item>
+        <!-- <item>Annuellement</item> -->
+    </string-array>
+    <integer-array name="period_for_selection">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+    <string-array name="months_abbrev">
+        <item>Janv</item>
+        <item>Févr</item>
+        <item>Mars</item>
+        <item>Avr</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juil</item>
+        <item>Août</item>
+        <item>Sept</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Déc</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre</item>
+    </string-array>
+
+    <string-array name="crops">
+        <item>Arachide</item>
+        <item>Millet</item>
+        <item>Maïs</item>
+        <item>Riz</item>
+        <item>Tomate</item>
+        <item>Oignon</item>
+        <item>Aubergine</item>
+    </string-array>
+
+
+    <!--these crop names need not to be changed/translated, they are used to much with those in the database-->
+    <string-array name="crops_for_queries">
+        <item>Peanut</item>
+        <item>Millet</item>
+        <item>Maize</item>
+        <item>Rice</item>
+        <item>Tomato</item>
+        <item>Onion</item>
+        <item>Egg Plant</item>
+    </string-array>
+    <!--RECOMMENDATIONS TEXTS-->
+
+    <string name="harvestable_period">Jours de maturation précoce : %1$d</string>
+    <string name="harvestable_period2">Jours de maturation précoce : %1$d, jours de maturation tardive : %2$d </string>
+    <string name="harvestable_period_weeks">Semaine %1$s de %2$s à semaine %3$s de %4$s</string>
+    <string name="planting_week_text">Jour %1$s de la semaine %2$s de %3$s</string>
+    <string name="to_text">à</string>
+
+    <!--CROPS-->
+    <string name="all_crops">Toutes les cultures</string>
+    <string name="Peanut">Arachide</string>
+    <string name="Millet">Millet</string>
+    <string name="Maize">Maïs</string>
+    <string name="Rice">Riz</string>
+    <string name="Tomato">Tomate</string>
+    <string name="Onion">Oignon</string>
+    <string name="Egg_Plant">Aubergine</string>
+    <!--INFO TEXTS -->
+    <string name="recommendation_for_chosen_station_text">Recommandation de semis pour %1$s, basée sur %2$s</string>
+    <string name="recommendation_for_not_chosen_station_text">Recommandation de période de semis pour %1$s basée sur [—CHOISIR UNE STATION—]</string>
+    <string name="select_station_info">[choisir une station]</string>
+    <string name="stations_text">Station(s)</string>
+    <string name="recommendation_for_default_text">Recommandation de semis pour la station ----</string>
+    <string name="day">JOUR</string>
+    <string name="week">SEMAINE</string>
+    <string name="start">DÉBUT</string>
+    <string name="week_">Semaine :</string>
+    <string name="month_">Mois :</string>
+    <string name="month">MOIS</string>
+    <string name="_2023">2023</string>
+    <string name="approx_date">Date approx. :</string>
+    <string name="end">FIN</string>
+    <string name="approximated_time_to_sow_text">Période approximative de semis</string>
+    <string name="approximated_time_to_harvest_text">Période approximative de récolte</string>
+    <string name="approx_dates">Dates approx. :</string>
+    <string name="all_crops_recommendations_text">Recommandations pour toutes les cultures</string>
+
+    <!--END RECOMMENDATION ACTIVITY-->
+
+    <!--WEATHER FORECAST-->
+    <string name="annually">Annuellement</string>
+    <string name="monthly">Mensuellement</string>
+    <string name="weekly">Hebdomadairement</string>
+    <string name="daily">Quotidiennement</string>
+    <string name="week_first_letter">S</string>
+    <string name="minimum_average_text">Moyenne minimale</string>
+    <string name="maximum_average_text">Moyenne maximale</string>
+    <string name="average_text">Moyenne</string>
+    <string name="average_humidity_text">Humidité moyenne</string>
+    <string name="rainfall">Précipitations</string>
+    <string name="select_all_fields_info">Veuillez sélectionner tous les champs de date</string>
+    <string name="validation_year_info">[L\'année de la date de fin] ne peut pas être inférieure à [L\'année de la date de début]</string>
+    <string name="validation_month_info">[Le mois de la date de fin] ne peut pas être inférieur à [Le mois de la date de début] de la même année</string>
+    <string name="default_parameters_set_info">Paramètres par défaut définis avec succès</string>
+    <string name="period_days_text">Période (Jours)</string>
+    <string name="period_weeks_text">Période (Semaines)</string>
+    <string name="period_months_text">Période (Mois)</string>
+    <string name="period_years_text">Période (Années)</string>
+
+
+    <string name="temperature_text_with_symbol">Température (℃)</string>
+    <string name="rainfall_mm">Précipitations (mm)</string>
+    <string name="rela_humidity">Humidité relative (%)</string>
+    <string name="temperature_text">Température</string>
+    <string name="select_date">[Sélectionner une date]</string>
+    <string name="humidity_text">Humidité</string>
+    <string name="relative_humidity_with_symbol">Humidité relative (%)</string>
+    <string name="weather_visualization_text">Visualisation Météo</string>
+    <string name="bar_graphs_line_graphs_and_summaries">Graphiques à barres, graphiques linéaires et résumés</string>
+    <string name="recommendations_text">Recommandations</string>
+    <string name="disease_detection">Détection de maladies</string>
+    <string name="sowing_and_harvesting_periods_recommendation">Recommandation de périodes de semis et de récolte</string>
+    <string name="crop_disease_detection">Détection des maladies des cultures</string>
+    <string name="detection_of_common_diseases">Détection des maladies courantes des cultures et remèdes possibles</string>
+    <string name="responding_to_climate_change">—Répondre aux changements climatiques—</string>
+
+
+    <!--DISEASE DETECTION-->
+    <string-array name="classes">
+        <item>Alternaria_Bénin</item>
+        <item>Alternaria_Moyenne</item>
+        <item>Alternaria_Sévère</item>
+        <item>Curvularia_Bénin</item>
+        <item>Curvularia_Moyenne</item>
+        <item>Curvularia_Sévère</item>
+        <item>En Bonne Santé</item>
+        <item>Helminthosporium_Bénin</item>
+        <item>Helminthosporium_Moyenne</item>
+        <item>Helminthosporium_Sévère</item>
+        <item>Lasiodiplodia_Bénin</item>
+        <item>Lasiodiplodia_Moyenne</item>
+        <item>Lasiodiplodia_Sévère</item>
+    </string-array>
+
+
+    <string name="results_confidence">Avec une confiance de : %s%%</string>
+
+    <!--TREATMENT-->
+    <!--Treatments/recommended treatments have deliberately dublicated so that it is easy to change treatment for one specific disease-->
+    <string name="d0_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d1_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d2_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d3_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d4_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d5_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d7_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d8_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d9_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d10_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d11_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+    <string name="d12_treat">Vous pouvez appliquer du chlorothalonil ou des fongicides à base de cuivre\n</string>
+
+
+    <string name="no_disease_detected">Aucune maladie détectée</string>
+    <string name="disease_not_known">Inconnu</string>
+    <string name="take_picture">Prendre une photo</string>
+    <string name="launch_gallery">Ouvrir la galerie</string>
+    <string name="classified_as">Classifié comme :</string>
+    <string name="how_to_visualize_data_of_a_spec">Comment visualiser les données d\'une station météorologique spécifique sur une période donnée.</string>
+    <string name="go_to_home">Accueil</string>
+    <string name="weather_forecast">Prévision météorologique</string>
+
+    <string name="change_language">Changer de langue</string>
+    <string name="lang_abbrev">fr</string>
+    <string name="cancel">Annuler</string>
+    <string name="date_range">[Date] - [plage]</string>
+    <string name="add_current_selection_to_default">Ajouter la sélection actuelle par défaut \?</string>
+    <string name="add_to_default_content_text">Les informations actuellement affichées sur votre écran seront les informations affichées par défaut la prochaine fois que vous ouvrez l\'application.</string>
+    <string name="station_name">Nom de la station :</string>
+    <string name="period_interval">Intervalle de période :</string>
+    <string name="not_now">Pas maintenant</string>
+    <string name="yes_add">Oui, ajouter</string>
+
+    <string name="choose_station">Choisir une station</string>
+    <string name="approx_planting_period">Période approximative de plantation</string>
+    <string name="approx_harvesting_period">Période approximative de récolte</string>
+    <string name="about_the_project">À propos du projet</string>
+    <string name="contacts">Contacts</string>
+    <string name="tomato_disease_detection">Détection des maladies de la tomate</string>
+    <string name="pick_date_range">Choisir la période</string>
+    <string name="start_date">Date de début :</string>
+    <string name="end_date">Date de fin :</string>
+    <string name="year">Année</string>
+    <string name="to">à</string>
+    <string name="sowing_rainfall_mm">Précipitations pour le semis :</string>
+    <string name="min_rainfall_mm">Min précipitations (mm) :</string>
+    <string name="max_rainfall_mm">Max précipitations (mm) :</string>
+    <string name="min_temperature">Température min \u00A0 \u00A0:</string>
+    <string name="max_temperature">Température max \u00A0 \u00A0:</string>
+    <string name="sowing_requirements">Exigences pour le semis :</string>
+</resources>

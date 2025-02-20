@@ -1,0 +1,276 @@
+<resources>
+    <string name="app_name">FARMWISE</string>
+    <string name="home">Home</string>
+    <string name="help">Help</string>
+    <string name="about">About us</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exit">exit</string>
+    <string name="confirm_exit">-- Confirm exit --</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm_exit_text">Just to make sure it wasn\'t an inadvertent operation, do you really want to exit the app?</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="about_project">This project was implemented at the Faculty of Applied Sciences and Technology - University of Gaston Berger with the financial help from the PASET-Regional Scholarship and Innovation Fund (RSIF).\n\n\nTo ensure continued food security and economic development in Africa, it is very important to address and adapt to climate change. The objective of this project is to enhance farmers resilience to hostile climate change in Senegal through Machine Learning-based models adapted to the context of daily weather forecasting and crop disease detection.
+</string>
+
+    <string name="about_contacts">The Project Team, University of Gaston Berger\nBP 234 Saint-Louis Senegal \nEmail: nyasulu.chimango@ugb.edu.sn </string>
+    <string name="question_mark">\?</string>
+    <string name="step11text">[WHILE ON "Weather forecast" page] Choose a station of which you want to visualize its Weather data by clicking on \"Station(s)\" as shown in the photo. The popup window of all Weather Stations will be shown where you can choose a station be checking a radio button to its left. Click \"OK\" button on the bottom right corner.</string>
+    <string name="step12text">Choose the time interval in which the data is to be shown (Daily, weekly, monthly or annually).</string>
+    <string name="step13text">Specify which dates should your data be of. The dates are dependent on the time interval that has been choosen.</string>
+    <string name="step21text"> [WHILE ON "Recommendation" page] Choose a station of which you want the PREDICTION to base on by clicking on "Station(s)" as shown in the photo. The popup window of all Weather Stations will be shown where you can choose a station be checking a radio button to its left. Click "OK" button on the bottom right corner.</string>
+    <string name="step22text">Below the "Station(s) (as pictured above)", click the dropdown box that will display available crops on which the prediction will base. On the expanded crop list, click on the crop to select it. Select "all crops" to see the approximate planting and harvest times for all available crops or choose a crop to see special approximation.
+</string>
+    <string name="step23text">To the right of crops (as pictured above), there is another dropdown list of years, click on it to choose a specific year that you want to know when you can plant or harvest your choosen crop(s).</string>
+    <string name="topic2">How to check time one is expected to plant a certain type of crop based on a region.</string>
+    <string-array name="stations">
+        <item>ROSSO</item>
+        <item>SAINT-LOUIS</item>
+        <item>LINGUERE</item>
+        <item>MATAM</item>
+        <item>DIOURBEL</item>
+        <item>KAOLACK</item>
+        <item>TAMBACOUNDA</item>
+        <item>CAP-SKIRRING</item>
+        <item>KOLDA</item>
+        <item>KEDOUGOU</item>
+    </string-array>
+
+    <string-array name="stations_respective_latitudes">
+        <item>16.5</item>
+        <item>16.05</item>
+        <item>15.367</item>
+        <item>15.617</item>
+        <item>14.65</item>
+        <item>14.133</item>
+        <item>13.767</item>
+        <item>12.4</item>
+        <item>12.883</item>
+        <item>12.567</item>
+    </string-array>
+
+    <string-array name="stations_respective_longitudes">
+        <item>-15.817</item>
+        <item>-16.483</item>
+        <item>-15.117</item>
+        <item>-13.25</item>
+        <item>-16.233</item>
+        <item>-16.067</item>
+        <item>-13.683</item>
+        <item>-16.75</item>
+        <item>-14.967</item>
+        <item>-12.217</item>
+    </string-array>
+
+    <string-array name="period">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <!-- <item>Annually</item>-->
+    </string-array>
+
+    <integer-array name="period_for_selection">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="months_abbrev">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sept</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="crops">
+        <item>Peanut</item>
+        <item>Millet</item>
+        <item>Maize</item>
+        <item>Rice</item>
+        <item>Tomato</item>
+        <item>Onion</item>
+        <item>Egg Plant</item>
+    </string-array>
+    <!--these crop names need not to be changed/translated, they are used to much with those in the database-->
+    <string-array name="crops_for_queries">
+        <item>Peanut</item>
+        <item>Millet</item>
+        <item>Maize</item>
+        <item>Rice</item>
+        <item>Tomato</item>
+        <item>Onion</item>
+        <item>Egg Plant</item>
+    </string-array>
+
+    <!--RECOMMENDATIONS TEXTS-->
+
+    <string name="harvestable_period">Early maturity days: %1$d</string>
+    <string name="harvestable_period2">Early maturity days: %1$d, late maturity days: %2$d </string>
+    <string name="harvestable_period_weeks">Week %1$s of %2$s" to week %3$s of %4$s</string>
+    <string name="planting_week_text">Day %1$s of Week %2$s of %3$s</string>
+    <string name="to_text">to</string>
+
+    <!--CROPS-->
+    <string name="all_crops">All crops</string>
+    <string name="Peanut">Peanut</string>
+    <string name="Millet">Millet</string>
+    <string name="Maize">Maize</string>
+    <string name="Rice">Rice</string>
+    <string name="Tomato">Tomato</string>
+    <string name="Onion">Onion</string>
+    <string name="Egg_Plant">Egg Plant</string>
+    <!--INFO TEXTS -->
+    <string name="recommendation_for_chosen_station_text">Sowing recommendation for %1$s, based on %2$s</string>
+    <string name="recommendation_for_not_chosen_station_text">Sowing time recommendation for %1$s based on [—CHOOSE STATION—]</string>
+    <string name="select_station_info">[select station]</string>
+    <string name="stations_text">Station(s)</string>
+    <string name="recommendation_for_default_text">Sowing recommendation for ---- station</string>
+    <string name="day">DAY</string>
+    <string name="week">WEEK</string>
+    <string name="start">START</string>
+    <string name="week_">Week:</string>
+    <string name="month_">Month:</string>
+    <string name="month">MONTH</string>
+    <string name="_2023">2023</string>
+    <string name="approx_date">Approx. date :</string>
+    <string name="end">END</string>
+    <string name="approximated_time_to_sow_text">Approximated time to sow</string>
+    <string name="approximated_time_to_harvest_text">Approximated time to harvest</string>
+    <string name="approx_dates">Approx. dates:</string>
+    <string name="all_crops_recommendations_text">All crops recommendations</string>
+    <!--END RECOMMENDATION ACTIVITY-->
+
+    <!--WEATHER FORECAST-->
+    <string name="annually">Annually</string>
+    <string name="monthly">Monthly</string>
+    <string name="weekly">Weekly</string>
+    <string name="daily">Daily</string>
+    <string name="week_first_letter">W</string>
+    <string name="minimum_average_text">Minimum average</string>
+    <string name="maximum_average_text">Maximum average</string>
+    <string name="average_text">Average</string>
+    <string name="average_humidity_text">Average humidity</string>
+    <string name="rainfall">Rainfall</string>
+    <string name="select_all_fields_info">Please select all date fields</string>
+    <string name="validation_year_info">[End date Year] can not be less than [Start Date Year]</string>
+    <string name="validation_month_info">[End date month] can not be less than [Start Date month] of the same year</string>
+    <string name="default_parameters_set_info">Default parameters successfully set</string>
+    <string name="period_days_text">Period (Days)</string>
+    <string name="period_weeks_text">Period (Weeks)</string>
+    <string name="period_months_text">Period (Months)</string>
+    <string name="period_years_text">Period (Years)</string>
+    <string name="temperature_text_with_symbol">Temperature (℃)</string>
+    <string name="rainfall_mm">Rainfall (mm)</string>
+    <string name="rela_humidity">Rela. Humidity (%)</string>
+    <string name="temperature_text">Temperature</string>
+    <string name="select_date">[Select date]</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="relative_humidity_with_symbol">Relative Humidity (%)</string>
+    <string name="weather_visualization_text">Weather Visualization</string>
+    <string name="bar_graphs_line_graphs_and_summaries">Bar graphs, Line graphs and summaries</string>
+    <string name="recommendations_text">Recommendations</string>
+    <string name="disease_detection">Disease detection</string>
+    <string name="sowing_and_harvesting_periods_recommendation">Sowing and harvesting periods recommendation</string>
+    <string name="crop_disease_detection">Crop Disease Detection</string>
+    <string name="detection_of_common_diseases">Detection of common diseases in crops and possible remedies</string>
+    <string name="responding_to_climate_change">--Responding to Climate Change--</string>
+
+
+    <!--DISEASE DETECTION-->
+    <string-array name="classes">
+        <item>Alternaria_Mild</item>
+        <item>Alternaria_Moderate</item>
+        <item>Alternaria_Severe</item>
+        <item>Curvularia_Mild</item>
+        <item>Curvularia_Moderate</item>
+        <item>Curvularia_Severe</item>
+        <item>Health</item>
+        <item>Helminthosporium_Mild</item>
+        <item>Helminthosporium_Moderate</item>
+        <item>Helminthosporium_Severe</item>
+        <item>Lasiodiplodia_Mild</item>
+        <item>Lasiodiplodia_Moderate</item>
+        <item>Lasiodiplodia_Severe</item>
+    </string-array>
+
+
+    <string name="results_confidence">With confidence of: %s%%</string>
+
+    <!--TREATMENT-->
+    <!--Treatments/recommended treatments have deliberately dublicated so that it is easy to change treatment for one specific disease-->
+    <string name="d0_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d1_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d2_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d3_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d4_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d5_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d7_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d8_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d9_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d10_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d11_treat">You can apply chlorothalonil or copper fungicides\n</string>
+    <string name="d12_treat">You can apply chlorothalonil or copper fungicides\n</string>
+
+
+    <string name="no_disease_detected">No disease detected</string>
+    <string name="disease_not_known">Not Known</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="launch_gallery">Launch Gallery</string>
+    <string name="classified_as">Classified as:</string>
+    <string name="how_to_visualize_data_of_a_spec">How to visualize data of a specific Weather Station in a specified period of time.</string>
+    <string name="go_to_home">Go to Home</string>
+    <string name="weather_forecast">Weather forecast</string>
+    <string name="change_language">Change language</string>
+    <string name="lang_abbrev">en</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_range">[Date] - [range]</string>
+    <string name="add_current_selection_to_default">Add current selection to default\?</string>
+    <string name="add_to_default_content_text">Information currently displayed on your screen will be the information displayed by default next time you start the app.</string>
+    <string name="station_name">Station name :</string>
+    <string name="period_interval">Period interval :</string>
+    <string name="not_now">Not now</string>
+    <string name="yes_add">Yes, add</string>
+    <string name="choose_station">Choose station</string>
+    <string name="approx_planting_period">Approx. planting period</string>
+    <string name="approx_harvesting_period">Approx. harvesting period</string>
+    <string name="about_the_project">About the project</string>
+    <string name="contacts">Contacts</string>
+    <string name="tomato_disease_detection">Tomato Disease Detection</string>
+    <string name="pick_date_range">Pick date range</string>
+    <string name="start_date">Start date:</string>
+    <string name="end_date">End date:</string>
+    <string name="year">Year</string>
+    <string name="to">TO</string>
+    <string name="sowing_rainfall_mm">Sowing rainfall \u00A0 \u00A0 \u00A0:</string>
+    <string name="min_rainfall_mm">Min rainfall (mm):</string>
+    <string name="max_rainfall_mm">Max rainfall (mm):</string>
+    <string name="min_temperature">Min temperature  :</string>
+    <string name="max_temperature">Max temperature  :</string>
+    <string name="sowing_requirements">Sowing requirements:</string>
+</resources>

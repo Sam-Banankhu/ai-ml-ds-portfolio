@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:layout_margin="1dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:background="#12AC0D0D"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/plant_image"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/onion" />
+
+        <View
+            android:id="@+id/divider15"
+            android:layout_width="1dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:background="?android:attr/listDivider"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/plant_image"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <TextView
+            android:id="@+id/plant_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="2dp"
+            android:text="Maize"
+            android:textColor="@color/purple_700"
+            android:textSize="@dimen/tiny_text"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/plant_image"
+            app:layout_constraintStart_toStartOf="@+id/plant_image"
+            app:layout_constraintTop_toBottomOf="@+id/plant_image" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="1dp"
+            android:text="@string/approx_planting_period"
+            android:textColor="@color/green"
+            android:textSize="@dimen/tiny_text"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/divider16"
+            app:layout_constraintStart_toEndOf="@+id/divider15"
+            app:layout_constraintTop_toTopOf="@+id/plant_image" />
+
+        <TextView
+            android:id="@+id/planting_week"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="Week prediction"
+            android:textColor="@color/black"
+            android:textSize="@dimen/tiny_text"
+            android:visibility="invisible"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/divider16"
+            app:layout_constraintStart_toStartOf="@+id/textView10"
+            app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+        <TextView
+            android:id="@+id/planting_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="date"
+            android:textSize="@dimen/tiny_text"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/planting_week"
+            app:layout_constraintTop_toBottomOf="@+id/planting_week" />
+
+        <View
+            android:id="@+id/divider16"
+            android:layout_width="1dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:background="?android:attr/listDivider"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.562"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:text="@string/approx_harvesting_period"
+            android:textColor="@color/harvestable_color"
+            android:textSize="@dimen/tiny_text"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/divider16"
+            app:layout_constraintTop_toTopOf="@+id/plant_image" />
+
+        <TextView
+            android:id="@+id/harvesting_week"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="Week prediction"
+            android:textColor="@color/black"
+            android:textSize="@dimen/tiny_text"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textView16"
+            app:layout_constraintTop_toBottomOf="@+id/textView16" />
+
+        <TextView
+            android:id="@+id/harvesting_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="date"
+            android:textSize="@dimen/tiny_text"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/harvesting_week"
+            app:layout_constraintTop_toBottomOf="@+id/harvesting_week" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

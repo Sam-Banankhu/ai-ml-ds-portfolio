@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/choose_language"
+        app:showAsAction="always"
+        android:actionLayout="@layout/change_language_layout"
+        android:title="@string/change_language" />
+
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_logout_fill0_wght400_grad0_opsz48"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/setting"
+        android:title="@string/settings"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/setting"
+        android:title="@string/go_to_home"
+        app:showAsAction="never"
+        />
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="h1_text" type="dimen">24sp</item>
+    <item name="h2_text" type="dimen">20sp</item>
+    <item name="h3_text" type="dimen">18sp</item>
+    <item name="h4_text" type="dimen">13sp</item>
+    <item name="h5_text" type="dimen">12sp</item>
+    <item name="tiny_text" type="dimen">11sp</item>
+    <item name="graph_area_height" type="dimen">380dp</item>
+</resources>

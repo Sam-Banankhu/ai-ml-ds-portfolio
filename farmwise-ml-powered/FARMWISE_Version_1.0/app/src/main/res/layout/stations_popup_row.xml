@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="#11D53C0D"
+    android:layout_marginTop="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="11dp"
+            android:layout_marginBottom="11dp" />
+
+        <TextView
+            android:id="@+id/station_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toEndOf="@id/checkBox"
+            android:textColor="@color/purple_700"
+            tools:layout_editor_absoluteX="52dp" />
+
+        <TextView
+            android:id="@+id/latLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/station_name"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="12dp"
+            android:layout_toEndOf="@id/checkBox"
+            android:text="Lat: "
+            android:textColor="@color/black"
+            android:textSize="@dimen/h4_text" />
+
+        <TextView
+            android:id="@+id/latitude"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:text="321"
+            android:layout_toEndOf="@id/latLabel"
+            android:layout_below="@id/station_name"
+            android:textSize="@dimen/h4_text"
+
+             />
+
+        <TextView
+            android:id="@+id/longLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/station_name"
+            android:layout_marginTop="12dp"
+            android:layout_toEndOf="@id/latitude"
+            android:text="Long : "
+            android:layout_marginLeft="4dp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/h4_text" />
+        <TextView
+            android:id="@+id/longitude"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:text="2324"
+            android:textSize="@dimen/h4_text"
+            android:layout_toEndOf="@id/longLabel"
+            android:layout_below="@id/station_name"
+             />
+
+        <View
+            android:id="@+id/divider3"
+            android:layout_width="1dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginStart="1dp"
+            android:layout_toRightOf="@id/checkBox"
+            android:background="?android:attr/listDivider"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
+
+    </RelativeLayout>-->
+</LinearLayout>

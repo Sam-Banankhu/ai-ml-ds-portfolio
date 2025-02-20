@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/purple_700"
+        android:drawableStart="@drawable/location"
+        android:drawablePadding="8dp"
+        android:drawableTint="@color/white"
+        android:gravity="center"
+        android:text="@string/choose_station"
+        android:textColor="@color/white"
+        android:textSize="@dimen/h3_text" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/stationsRecycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:visibility="gone"
+        tools:itemCount="6"
+        tools:listitem="@layout/stations_popup_row" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/header"
+        android:layout_above="@+id/footer"
+        android:layout_marginTop="1dp">
+
+        <LinearLayout
+            android:id="@+id/station_list_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st1"
+                        android:text="ROSSO"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name1"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st1"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name1"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel1"
+                        android:text="16.5"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name1"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude1"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name1"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel1"
+                        android:text="-15.817"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider31"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st1"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st2"
+                        android:text="SAINT-LOUIS"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name2"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st2"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name2"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel2"
+                        android:text="16.05"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name2"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude2"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name2"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel2"
+                        android:text="-16.483"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider2"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st2"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st3"
+                        android:text="LINGUERE"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name3"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st3"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name3"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel3"
+                        android:text="15.367"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name3"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude3"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name3"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel3"
+                        android:text="-15.117"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider3"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st3"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st4"
+                        android:text="MATAM"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name4"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st4"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name4"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel4"
+                        android:text="15.617"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name4"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude4"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name4"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel4"
+                        android:text="-13.25"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider4"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st4"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st5"
+                        android:text="DIOURBEL"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name5"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st5"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name5"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel5"
+                        android:text="14.65"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name5"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude5"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name5"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel5"
+                        android:text="-16.233"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st5"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st6"
+                        android:text="KAOLACK"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name6"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st6"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name6"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel6"
+                        android:text="14.133"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name6"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude6"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name6"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel6"
+                        android:text="-16.067"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider6"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st6"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st7"
+                        android:text="TAMBACOUNDA"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name7"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st7"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name7"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel7"
+                        android:text="13.767"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name7"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude7"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name7"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel7"
+                        android:text="-13.683"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider7"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st7"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st8"
+                        android:text="CAP-SKIRRING"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name8"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st8"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name8"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel8"
+                        android:text="12.4"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name8"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude8"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name8"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel8"
+                        android:text="-16.75"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider8"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st8"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st9"
+                        android:text="KOLDA"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name9"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st9"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name9"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel9"
+                        android:text="12.883"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name9"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude9"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name9"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel9"
+                        android:text="-14.967"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider93"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginStart="1dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st9"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:background="#11D53C0D">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/st10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="11dp"
+                        android:layout_marginBottom="11dp" />
+
+                    <TextView
+                        android:id="@+id/station_name10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_toEndOf="@id/st10"
+                        android:text="KEDOUGOU"
+                        android:textColor="@color/purple_700"
+                        tools:layout_editor_absoluteX="52dp" />
+
+                    <TextView
+                        android:id="@+id/latLabel10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name10"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/st10"
+                        android:text="Lat: "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/latitude10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name10"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/latLabel10"
+                        android:text="12.567"
+                        android:textSize="@dimen/h4_text"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/longLabel10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name10"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toEndOf="@id/latitude10"
+                        android:text="Long : "
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/h4_text" />
+
+                    <TextView
+                        android:id="@+id/longitude10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/station_name10"
+                        android:layout_marginTop="13dp"
+                        android:layout_toEndOf="@id/longLabel10"
+                        android:text="-12.217"
+                        android:textSize="@dimen/h4_text" />
+
+                    <View
+                        android:id="@+id/divider10"
+                        android:layout_width="1dp"
+                        android:layout_height="60dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_toRightOf="@id/st10"
+                        android:background="?android:attr/listDivider"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="6dp"
+        android:background="#33952604">
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/cancelBtn"
+            android:layout_width="wrap_content"
+            android:text="@string/cancel"
+            android:textAllCaps="false"
+            android:layout_alignParentStart="true"
+            android:layout_height="wrap_content"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/okBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:text="OK"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/purple_700"
+            android:textAllCaps="false" />
+    </RelativeLayout>
+</RelativeLayout>

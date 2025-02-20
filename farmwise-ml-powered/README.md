@@ -1,0 +1,2 @@
+# FARMWISE
+FARMWISE is a Java-based Android application designed for efficient farm management and accurate weather forecasting. It empowers farmers to seamlessly track their crops and providing up-to-date weather forecasts tailored to their farm's location. The app's user-friendly interface allows users to make informed decisions based on real-time weather data. FARMWISE is developed using Android Studio.

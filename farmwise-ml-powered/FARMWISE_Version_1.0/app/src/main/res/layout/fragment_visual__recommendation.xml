@@ -1,0 +1,895 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Fragments.Visual_Recommendation">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@color/purple_700"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/divider8"
+                android:layout_width="1dp"
+                android:layout_height="120dp"
+                android:layout_marginStart="10dp"
+                android:background="?android:attr/listDivider"
+                android:backgroundTint="@color/white"
+                app:layout_constraintStart_toEndOf="@+id/imageView11"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/location"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:tint="@color/white" />
+
+            <TextView
+                android:id="@+id/stations_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/stations_text"
+                android:textColor="@color/white"
+                android:textSize="@dimen/h2_text"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/divider8"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/selectedStationName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/select_station_info"
+                android:textColor="@color/textOnRedBgColor"
+                android:textSize="@dimen/h3_text"
+                app:layout_constraintStart_toStartOf="@+id/stations_text"
+                app:layout_constraintTop_toBottomOf="@+id/stations_text" />
+
+            <View
+                android:id="@+id/divider933"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginStart="1dp"
+                android:layout_marginEnd="1dp"
+                android:background="?android:attr/listDivider"
+                android:backgroundTint="@color/white"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="13dp"
+                android:src="@drawable/crops_symbol"
+                app:layout_constraintBottom_toBottomOf="@+id/linearLayout2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/linearLayout2"
+                app:tint="@color/white" />
+
+            <View
+                android:id="@+id/divider93"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginStart="1dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginEnd="1dp"
+                android:background="?android:attr/listDivider"
+                android:backgroundTint="@color/white"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/selectedStationName" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout2"
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                app:layout_constraintStart_toStartOf="@+id/selectedStationName"
+                app:layout_constraintTop_toBottomOf="@+id/selectedStationName">
+
+                <androidx.appcompat.widget.AppCompatSpinner
+                    android:id="@+id/crops_dropdown"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@drawable/input_fields_bg"
+                    android:backgroundTint="#9CA12A05"
+                    android:gravity="center_vertical" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayout552"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                app:layout_constraintEnd_toEndOf="@+id/add_default"
+                app:layout_constraintTop_toBottomOf="@+id/selectedStationName">
+
+                <androidx.appcompat.widget.AppCompatSpinner
+                    android:id="@+id/years_dropdown"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@drawable/input_fields_bg"
+                    android:backgroundTint="#9CA12A05"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="4dp" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/show_stations"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="3dp"
+                android:background="#00FFFFFF"
+                android:drawableRight="@drawable/arrow_down"
+                android:drawableTint="#D8D8BE"
+                app:layout_constraintBottom_toBottomOf="@+id/stations_text"
+                app:layout_constraintStart_toEndOf="@+id/stations_text"
+                app:layout_constraintTop_toTopOf="@+id/stations_text" />
+
+            <ImageView
+                android:id="@+id/add_default"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="14dp"
+                android:src="@drawable/add_to_default"
+                app:layout_constraintBottom_toBottomOf="@+id/selectedStationName"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/stations_text"
+                app:tint="@color/white" />
+
+            <Button
+                android:id="@+id/show_crops288"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="-40dp"
+                android:background="#00FFFFFF"
+                android:clickable="false"
+                android:drawableRight="@drawable/arrow_down"
+                android:drawableTint="#D8D8BE"
+                app:layout_constraintBottom_toBottomOf="@+id/linearLayout2"
+                app:layout_constraintStart_toEndOf="@+id/linearLayout2"
+                app:layout_constraintTop_toTopOf="@+id/linearLayout2" />
+
+            <Button
+                android:id="@+id/show_crops2"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="-30dp"
+                android:background="#00FFFFFF"
+                android:clickable="false"
+                android:drawableRight="@drawable/arrow_down"
+                android:drawableTint="#D8D8BE"
+                app:layout_constraintBottom_toBottomOf="@+id/linearLayout2"
+                app:layout_constraintStart_toEndOf="@+id/linearLayout552"
+                app:layout_constraintTop_toTopOf="@+id/linearLayout2" />
+
+            <View
+                android:id="@+id/divider5"
+                android:layout_width="0dp"
+                android:layout_height="2dp"
+                android:background="?android:attr/listDivider"
+                android:backgroundTint="#EBF1CB0F"
+                app:layout_constraintBottom_toBottomOf="@+id/linearLayout552"
+                app:layout_constraintEnd_toStartOf="@+id/linearLayout552"
+                app:layout_constraintStart_toEndOf="@+id/linearLayout2"
+                app:layout_constraintTop_toTopOf="@+id/linearLayout552" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scroll_v_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:scrollbars="none"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.0">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/singleCropRecommendationViewContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                tools:visibility="visible">
+
+                <ImageView
+                    android:id="@+id/crop_image1"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/circle_bg_xl"
+                    android:backgroundTint="#1DD53C0D"
+                    android:padding="4dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/st_name1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:ellipsize="marquee"
+                    android:padding="1dp"
+                    android:text="@string/recommendation_for_default_text"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="@+id/crop_image1"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toEndOf="@+id/crop_image1"
+                    app:layout_constraintTop_toTopOf="@+id/crop_image1"
+                    app:layout_constraintVertical_bias="0.166" />
+
+                <View
+                    android:id="@+id/view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:background="#1DD53C0D"
+                    app:layout_constraintBottom_toBottomOf="@+id/crop_image1"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="1.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/crop_image1"
+                    app:layout_constraintVertical_bias="0.0" />
+
+                <LinearLayout
+                    android:id="@+id/linearLayout3"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/circle_bg_xl"
+                    android:backgroundTint="@color/purple_700"
+                    android:orientation="vertical"
+                    android:visibility="gone"
+                    app:layout_constraintBottom_toBottomOf="@+id/linearl4"
+                    app:layout_constraintStart_toStartOf="@+id/st_name1"
+                    app:layout_constraintTop_toTopOf="@+id/linearl4">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:background="@drawable/date_header"
+                        android:backgroundTint="@color/green"
+                        android:gravity="center"
+                        android:text="@string/day"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/h4_text"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="#65F1CB0F" />
+
+                    <TextView
+                        android:id="@+id/recommended_day"
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp"
+                        android:gravity="center"
+                        android:textColor="@color/weak_yellow"
+                        android:textSize="@dimen/h3_text"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearl4"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_marginStart="40dp"
+                    android:background="@drawable/circle_bg_xl"
+                    android:backgroundTint="@color/purple_700"
+                    android:orientation="vertical"
+                    android:visibility="gone"
+                    app:layout_constraintBottom_toBottomOf="@+id/linearl5"
+                    app:layout_constraintStart_toEndOf="@+id/linearLayout3">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="25dp"
+                        android:background="@drawable/date_header"
+                        android:backgroundTint="@color/green"
+                        android:gravity="center"
+                        android:text="@string/week"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/h4_text"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="#65F1CB0F" />
+
+                    <TextView
+                        android:id="@+id/recommended_week"
+                        android:layout_width="match_parent"
+                        android:layout_height="33dp"
+                        android:gravity="center"
+                        android:textColor="@color/weak_yellow"
+                        android:textSize="@dimen/h3_text"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearl425"
+                    android:layout_width="110dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/circle_bg_xl"
+                    android:backgroundTint="@color/purple_700"
+                    android:orientation="vertical"
+                    android:visibility="gone"
+                    app:layout_constraintStart_toStartOf="@+id/linearLayout3"
+                    app:layout_constraintTop_toBottomOf="@+id/textView1461">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="25dp"
+                        android:background="@drawable/date_header"
+                        android:backgroundTint="#B68B09"
+                        android:gravity="center"
+                        android:text="@string/start"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/h3_text"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="#65F1CB0F" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="8dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/week_"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/h4_text"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/approximated_week_h"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="4dp"
+                            android:textColor="@color/weak_yellow"
+                            android:textSize="@dimen/h4_text"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="8dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/month_"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/h4_text"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/approximated_month_h"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="4dp"
+                            android:textColor="@color/weak_yellow"
+                            android:textSize="@dimen/h4_text"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearl5"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/circle_bg_xl"
+                    android:backgroundTint="@color/purple_700"
+                    android:orientation="vertical"
+                    android:visibility="gone"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/linearl4"
+                    app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:background="@drawable/date_header"
+                        android:backgroundTint="@color/green"
+                        android:gravity="center"
+                        android:text="@string/month"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="#65F1CB0F" />
+
+                    <TextView
+                        android:id="@+id/recommended_month"
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:gravity="center"
+                        android:textColor="@color/weak_yellow"
+                        android:textSize="@dimen/h3_text"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/selectedYear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginTop="4dp"
+                    android:text="@string/_2023"
+                    android:textColor="@color/purple_700"
+                    android:textSize="@dimen/h3_text"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="@+id/crop_image1"
+                    app:layout_constraintStart_toEndOf="@+id/crop_image1"
+                    app:layout_constraintTop_toTopOf="@+id/crop_image1"
+                    app:layout_constraintVertical_bias="1.0" />
+
+                <View
+                    android:id="@+id/divider9"
+                    android:layout_width="0dp"
+                    android:layout_height="3dp"
+                    android:layout_marginTop="20dp"
+                    android:background="?android:attr/listDivider"
+                    android:backgroundTint="@color/purple_700"
+                    android:visibility="gone"
+                    app:layout_constraintEnd_toEndOf="@+id/linearl5"
+                    app:layout_constraintStart_toStartOf="@+id/linearLayout3"
+                    app:layout_constraintTop_toBottomOf="@+id/linearLayout3" />
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:drawableLeft="@drawable/ic_baseline_calendar_today_24"
+                    android:drawableTint="#ccc"
+                    android:gravity="center_vertical"
+                    android:text="@string/approx_date"
+                    android:textColor="@color/purple_700"
+                    android:textSize="@dimen/h4_text"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="@+id/linearLayout3"
+                    app:layout_constraintTop_toBottomOf="@+id/divider9" />
+
+                <LinearLayout
+                    android:id="@+id/linearl4258"
+                    android:layout_width="110dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/circle_bg_xl"
+                    android:backgroundTint="@color/purple_700"
+                    android:orientation="vertical"
+                    android:visibility="gone"
+                    app:layout_constraintEnd_toEndOf="@+id/linearl5"
+                    app:layout_constraintTop_toBottomOf="@+id/textView1461">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="25dp"
+                        android:background="@drawable/date_header"
+                        android:backgroundTint="#B68B09"
+                        android:gravity="center"
+                        android:text="@string/end"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/h3_text"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="#65F1CB0F" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="8dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/week_"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/h4_text"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/approximated_week_h2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="4dp"
+                            android:textColor="@color/weak_yellow"
+                            android:textSize="@dimen/h4_text"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="8dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/month_"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/h4_text"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/approximated_month_h2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="4dp"
+                            android:textColor="@color/weak_yellow"
+                            android:textSize="@dimen/h4_text"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/approximated_date"
+                    android:layout_width="270dp"
+                    android:layout_height="24dp"
+                    android:layout_marginStart="5dp"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/h4_text"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="@+id/textView5"
+                    app:layout_constraintStart_toEndOf="@+id/textView5"
+                    app:layout_constraintTop_toTopOf="@+id/textView5" />
+
+                <TextView
+                    android:id="@+id/textView11"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:background="@color/green"
+                    android:padding="8dp"
+                    android:text="@string/approximated_time_to_sow_text"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/h3_text"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="@+id/crop_image1"
+                    app:layout_constraintTop_toBottomOf="@+id/crop_image1" />
+
+                <TextView
+                    android:id="@+id/textView1461"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:background="#B68B09"
+                    android:padding="8dp"
+                    android:text="@string/approximated_time_to_harvest_text"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/h3_text"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="1.0"
+                    app:layout_constraintStart_toStartOf="@+id/crop_image1"
+                    app:layout_constraintTop_toBottomOf="@+id/textView36" />
+
+                <View
+                    android:id="@+id/divider13"
+                    android:layout_width="0dp"
+                    android:layout_height="3dp"
+                    android:visibility="gone"
+                    android:layout_marginTop="10dp"
+                    android:background="?android:attr/listDivider"
+                    android:backgroundTint="@color/purple_700"
+                    app:layout_constraintEnd_toEndOf="@+id/linearl5"
+                    app:layout_constraintStart_toStartOf="@+id/linearLayout3"
+                    app:layout_constraintTop_toBottomOf="@+id/linearl425" />
+
+                <TextView
+                    android:id="@+id/textView12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:drawableLeft="@drawable/ic_baseline_calendar_today_24"
+                    android:drawableTint="#ccc"
+                    android:gravity="center_vertical"
+                    android:text="@string/approx_dates"
+                    android:textColor="@color/purple_700"
+                    android:textSize="@dimen/h4_text"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="@+id/linearLayout3"
+                    app:layout_constraintTop_toBottomOf="@+id/textView1461" />
+
+                <TextView
+                    android:id="@+id/approximated_harvest_period"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/h4_text"
+                    android:textStyle="bold"
+                    android:layout_marginEnd="2dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/textView12"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/textView12"
+                    app:layout_constraintTop_toTopOf="@+id/textView12" />
+
+                <TextView
+                    android:id="@+id/harvestable_period_text"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:background="#22F1CB0F"
+                    android:padding="2dp"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/tiny_text"
+                    app:layout_constraintEnd_toEndOf="@+id/approximated_harvest_period"
+                    app:layout_constraintStart_toStartOf="@+id/textView12"
+                    app:layout_constraintTop_toBottomOf="@+id/approximated_date" />
+
+                <View
+                    android:id="@+id/divider14"
+                    android:layout_width="0dp"
+                    android:layout_height="4dp"
+                    android:background="@color/purple_700"
+                    android:visibility="gone"
+                    app:layout_constraintBottom_toBottomOf="@+id/linearl4258"
+                    app:layout_constraintEnd_toStartOf="@+id/linearl4258"
+                    app:layout_constraintStart_toEndOf="@+id/linearl425"
+                    app:layout_constraintTop_toTopOf="@+id/linearl4258" />
+
+                <TextView
+                    android:id="@+id/textView15"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/circle_bg_xl"
+                    android:backgroundTint="@color/purple_700"
+                    android:gravity="center"
+                    android:text="@string/to_text"
+                    android:textColor="@color/weak_yellow"
+                    android:textStyle="bold"
+                    android:visibility="gone"
+                    app:layout_constraintBottom_toBottomOf="@+id/linearl4258"
+                    app:layout_constraintEnd_toStartOf="@+id/linearl4258"
+                    app:layout_constraintStart_toEndOf="@+id/linearl425"
+                    app:layout_constraintTop_toTopOf="@+id/linearl4258" />
+
+                <TextView
+                    android:id="@+id/week_range_havest"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="#22F1CB0F"
+                    android:padding="2dp"
+                    android:textColor="@color/black"
+                    android:textSize="11sp"
+                    android:visibility="invisible"
+                    app:layout_constraintEnd_toEndOf="@+id/harvestable_period_text"
+                    app:layout_constraintStart_toStartOf="@+id/textView12"
+                    app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+                <TextView
+                    android:id="@+id/textView33"
+                    android:layout_width="3dp"
+                    android:layout_height="0dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="40dp"
+                    android:layout_marginBottom="40dp"
+                    android:background="@drawable/farm_transition"
+                    app:layout_constraintBottom_toBottomOf="@+id/textView1461"
+                    app:layout_constraintStart_toStartOf="@+id/textView11"
+                    app:layout_constraintTop_toTopOf="@+id/textView11" />
+
+                <TextView
+                    android:id="@+id/textView31"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:drawableLeft="@drawable/rainfall_ic"
+                    android:drawableTint="@color/blue"
+                    android:text="@string/sowing_rainfall_mm"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/tiny_text"
+                    android:drawablePadding="2dp"
+                    app:layout_constraintStart_toStartOf="@+id/harvestable_period_text"
+                    app:layout_constraintTop_toBottomOf="@+id/textView38" />
+
+                <TextView
+                    android:id="@+id/textView37"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:drawableLeft="@drawable/sun_ic"
+                    android:drawableTint="@color/weak_yellow"
+                    android:text="@string/min_temperature"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/tiny_text"
+                    android:drawablePadding="2dp"
+                    app:layout_constraintStart_toStartOf="@+id/harvestable_period_text"
+                    app:layout_constraintTop_toBottomOf="@+id/textView31" />
+
+                <TextView
+                    android:id="@+id/textView36"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:drawableLeft="@drawable/sun_ic"
+                    android:drawableTint="@color/purple_700"
+                    android:text="@string/max_temperature"
+                    android:drawablePadding="2dp"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/tiny_text"
+
+                    app:layout_constraintStart_toStartOf="@+id/harvestable_period_text"
+                    app:layout_constraintTop_toBottomOf="@+id/textView37" />
+
+                <TextView
+                    android:id="@+id/textView38"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/plain_text_bg"
+                    android:backgroundTint="@color/green"
+                    android:padding="4dp"
+                    android:text="@string/sowing_requirements"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/h4_text"
+                    app:layout_constraintEnd_toEndOf="@+id/rainfall_req"
+                    app:layout_constraintStart_toStartOf="@+id/harvestable_period_text"
+                    app:layout_constraintTop_toBottomOf="@+id/harvestable_period_text" />
+
+                <TextView
+                    android:id="@+id/rainfall_req"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:background="@drawable/circle_bg"
+                    android:backgroundTint="@color/blue"
+                    android:paddingHorizontal="3dp"
+                    android:text="--"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/tiny_text"
+                    app:layout_constraintBottom_toBottomOf="@+id/textView31"
+                    app:layout_constraintStart_toEndOf="@+id/textView31"
+                    app:layout_constraintTop_toTopOf="@+id/textView31" />
+
+                <TextView
+                    android:id="@+id/min_temp_req"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/circle_bg"
+                    android:backgroundTint="@color/weak_yellow"
+                    android:paddingHorizontal="3dp"
+                    android:text="--"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/tiny_text"
+                    app:layout_constraintBottom_toBottomOf="@+id/textView37"
+                    app:layout_constraintStart_toEndOf="@+id/textView37"
+                    app:layout_constraintStart_toStartOf="@+id/rainfall_req"
+                    app:layout_constraintTop_toTopOf="@+id/textView37" />
+
+                <TextView
+                    android:id="@+id/max_temp_req"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/circle_bg"
+                    android:backgroundTint="@color/purple_700"
+                    android:paddingHorizontal="3dp"
+                    android:text="--"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/tiny_text"
+                    app:layout_constraintBottom_toBottomOf="@+id/textView36"
+                    app:layout_constraintStart_toStartOf="@+id/min_temp_req"
+                    app:layout_constraintTop_toTopOf="@+id/textView36" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/allCropsRecommendationViewContainer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible"
+                tools:visibility="gone">
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/all_crops_recommendations_text"
+                    android:visibility="gone"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <SearchView
+                    android:id="@+id/search_crop"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="2dp"
+                    android:iconifiedByDefault="true"
+                    android:queryHint="Search crop..."
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView6">
+
+                </SearchView>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/allCropsRecyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="@+id/search_crop"
+                    app:layout_constraintTop_toBottomOf="@+id/search_crop"
+                    tools:itemCount="6"
+                    tools:listitem="@layout/all_crops_single_row_view" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

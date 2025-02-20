@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF5722</color>
+    <color name="purple_700">#D53C0D</color>
+    <color name="teal_200">#D53C0D</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#0C9107</color>
+    <color name="weak_yellow">#F1CB0F</color>
+    <color name="harvestable_color">#B68B09</color>
+    <color name="humidity_color">#03A9F4</color>
+    <color name="rain_graph_color">#21318C</color>
+
+    <color name="textOnRedBgColor">#FFC107</color>
+    <color name="blue">#5D6FD6</color>
+</resources>
