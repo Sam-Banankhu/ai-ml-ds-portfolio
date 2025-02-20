@@ -1,0 +1,568 @@
+﻿District,Facility Name,Facility Type,Managing Authority,Urban/Rural
+Dedza,Bembeke Health Centre,Health Centre,CHAM,Rural
+Dedza,Chikuse Health Centre,Health Centre,Government,Urban
+Dedza,Chimoto Health Centre,Health Centre,Government,Rural
+Dedza,Chitowo Health Centre,Health Centre,Government,Rural
+Dedza,Dedza District Hospital,Hospital,Government,Rural
+Dedza,Dzindevu Health Centre,Health Centre,Government,Rural
+Dedza,Golomoti Health Centre,Health Centre,Government,Rural
+Dedza,Kafere Health Centre,Health Centre,Government,Rural
+Dedza,Kalulu Health Centre,Health Centre,Government,Rural
+Dedza,Kanyama Health Centre,Health Centre,CHAM,Rural
+Dedza,Kanyezi Health Centre,Health Centre,Government,Rural
+Dedza,Kaphuka Health Centre,Health Centre,Government,Rural
+Dedza,Kasina Health Centre,Health Centre,CHAM,Urban
+Dedza,Kaundu Health Centre,Health Centre,CHAM,Rural
+Dedza,Lobi Health Centre,Health Centre,Government,Rural
+Dedza,Maonde Health Centre,Health Centre,Government,Rural
+Dedza,Matumba Health Centre,Health Centre,CHAM,Rural
+Dedza,Mayani Health Centre,Health Centre,Government,Rural
+Dedza,Mganja Health Centre,Health Centre,Government,Rural
+Dedza,Mikondo Health Centre,Health Centre,CHAM,Rural
+Dedza,Mlangali Health Centre,Health Centre,Government,Rural
+Dedza,Mphathi Health Centre,Health Centre,Government,Rural
+Dedza,Mphunzi Health Centre,Health Centre,CHAM,Rural
+Dedza,Mtakataka Health Centre,Health Centre,Government,Rural
+Dedza,Mtendere Health Centre,Hospital,CHAM,Rural
+Dedza,Mua Rural Hospital,Hospital,CHAM,Urban
+Dedza,Nakalanzi Health Centre,Health Centre,CHAM,Rural
+Dedza,Ntakataka Police Dispensary,Health Centre,Government,Rural
+Dowa,Bowe Health Centre,Health Centre,Government,Rural
+Dowa,Chakhaza Health Centre,Health Centre,Government,Rural
+Dowa,Chankhungu Health Centre,Health Centre,Government,Rural
+Dowa,Chinkhwiri Health Centre,Health Centre,Government,Rural
+Dowa,Chisepo Health Centre,Health Centre,Government,Rural
+Dowa,Chizolowondo Health Centre,Health Centre,Government,Rural
+Dowa,Dzaleka Health Centre,Health Centre,Government,Rural
+Dowa,Dzoole Health Centre,Health Centre,Government,Rural
+Dowa,Kayembe Health Centre,Health Centre,Government,Rural
+Dowa,Madisi Mission Hospital,Hospital,CHAM,Rural
+Dowa,Mbingwa Health Centre,Health Centre,Government,Rural
+Dowa,Mponela Rural Hospital,Hospital,Government,Rural
+Dowa,Msakambewa Health Centre,Health Centre,Government,Rural
+Dowa,Mthengathenga Hospital,Hospital,CHAM,Rural
+Dowa,Mvera Army Health Centre,Health Centre,Government,Rural
+Dowa,Mvera Mission Health Centre,Health Centre,CHAM,Rural
+Dowa,Mwangala Health Centre,Health Centre,Government,Rural
+Dowa,Nalunga Health Centre,Health Centre,Government,Rural
+Dowa,St. Mary's Rehabilitation Heal,Health Centre,CHAM,Rural
+Dowa,Thonje Health Centre,Health Centre,Government,Rural
+Kasungu,Anchor Health Centre,Health Centre,Government,Rural
+Kasungu,Chamama Health Centre,Health Centre,Government,Rural
+Kasungu,Chamwabvi Health Centre,Health Centre,Government,Rural
+Kasungu,Chinyama Health Centre,Health Centre,Government,Rural
+Kasungu,Chulu Health Centre,Health Centre,Government,Rural
+Kasungu,Kaluluma Rural Hospital,Hospital,Government,Rural
+Kasungu,Kamboni Health Centre,Health Centre,Government,Rural
+Kasungu,Kapelula Health Centre,Health Centre,Government,Rural
+Kasungu,Kasalika Health Centre,Health Centre,Government,Urban
+Kasungu,Kasungu District Hospital,Hospital,Government,Urban
+Kasungu,Kawamba Health Centre,Health Centre,Government,Rural
+Kasungu,Khola Health Centre,Health Centre,Government,Rural
+Kasungu,KTFT/Mziza Health Centre,Health Centre,CHAM,Rural
+Kasungu,Linyangwa Health Centre,Health Centre,Government,Rural
+Kasungu,Livwezi Health Centre,Health Centre,Government,Rural
+Kasungu,Lodjwa Health Centre,Health Centre,Government,Rural
+Kasungu,Mdunga Health Centre,Health Centre,Government,Rural
+Kasungu,Mkhota Health Centre,Health Centre,Government,Rural
+Kasungu,Mnyanja Health Centre,Health Centre,Government,Rural
+Kasungu,Mpepa Health Centre,Health Centre,Government,Rural
+Kasungu,Mtunthama Health Centre,Health Centre,Government,Rural
+Kasungu,Newa Health Centre,Health Centre,CHAM,Rural
+Kasungu,Nkhamenya Hospital,Hospital,CHAM,Rural
+Kasungu,Ofesi Health Centre,Health Centre,Government,Rural
+Kasungu,Santhe Health Centre,Health Centre,Government,Rural
+Kasungu,Simlemba Health Centre,Health Centre,Government,Rural
+Kasungu,St. Andrews Health Centre,Health Centre,CHAM,Rural
+Kasungu,Thupa Health Centre,Health Centre,Government,Rural
+Kasungu,Wimbe Health Centre,Health Centre,Government,Rural
+Kasungu ,Bua Health Centre,Health Centre,Government,Rural
+Lilongwe,ABC Comm. Hospital,Hospital,CHAM,Urban
+Lilongwe,Area 18 Health Centre,Health Centre,Government,Urban
+Lilongwe,Area 25 Health centre,Health Centre,Government,Urban
+Lilongwe,Bwaila Hospital,Hospital,Government,Urban
+Lilongwe,Chadza Health Centre,Health Centre,Government,Rural
+Lilongwe,Chikowa Health Centre,Health Centre,Government,Rural
+Lilongwe,Chileka Health Centre,Health Centre,Government,Rural
+Lilongwe,Chilobwe/Majiga Health Centre,Health Centre,Government,Rural
+Lilongwe,Chimbalanga Health Centre,Health Centre,Government,Rural
+Lilongwe,Chitedze Health Centre,Health Centre,Government,Rural
+Lilongwe,Chiunjiza Health Centre,Health Centre,Government,Rural
+Lilongwe,Chiwamba Health Centre,Health Centre,Government,Rural
+Lilongwe,Chiwe Health Centre,Health Centre,CHAM,Rural
+Lilongwe,Chiwoza Health Centre,Health Centre,Government,Rural
+Lilongwe,Daeyang Luke Hospital,Hospital,CHAM,Urban
+Lilongwe,Diamphwe Health Centre,Health Centre,Government,Rural
+Lilongwe,Dickson Health Centre,Health Centre,Government,Rural
+Lilongwe,Dzenza Health Centre,Health Centre,CHAM,Urban
+Lilongwe,Kabudula Rural Hospital,Hospital,Government,Rural
+Lilongwe,Kamuzu Barracks Hospital,Hospital,Government,Urban
+Lilongwe,Kamuzu Central Hospital,Hospital,Government,Urban
+Lilongwe,Kang'oma Health Centre,Health Centre,Government,Rural
+Lilongwe,Katchale Health Centre,Health Centre,Government,Rural
+Lilongwe,Kawale Health Centre,Health Centre,Government,Urban
+Lilongwe,Khongoni Health Centre,Health Centre,Government,Rural
+Lilongwe,Lemwe Health Centre,Health Centre,Government,Rural
+Lilongwe,Likuni Mission Hospital,Hospital,CHAM,Urban
+Lilongwe,Lumbadzi Health Centre,Health Centre,Government,Rural
+Lilongwe,Malembo Health Centre,Health Centre,Government,Rural
+Lilongwe,Malingunde Health Centre,Health Centre,CHAM,Rural
+Lilongwe,Maluwa Health Centre,Health Centre,Government,Rural
+Lilongwe,Matapila Health Centre,Health Centre,Government,Rural
+Lilongwe,Mbabvi Health Centre,Health Centre,Government,Rural
+Lilongwe,Mbang'ombe 2 Health Centre,Health Centre,Government,Rural
+Lilongwe,Mbangombe Health Centre 1,Health Centre,Government,Rural
+Lilongwe,Mbwatalika Health Centre,Health Centre,CHAM,Rural
+Lilongwe,MIale Mission Hospital,Hospital,CHAM,Rural
+Lilongwe,Ming'ong'o Health Centre,Health Centre,Government,Rural
+Lilongwe,Mitundu Community Hospital,Hospital,Government,Rural
+Lilongwe,Mseche Health Centre,Health Centre,Government,Rural
+Lilongwe,Mtenthela Health Centre,Health Centre,Government,Rural
+Lilongwe,Nambuma Health Centre,Hospital,CHAM,Rural
+Lilongwe,Nathenje Health Centre,Health Centre,Government,Rural
+Lilongwe,Ndaula Health Centre,Health Centre,Government,Rural
+Lilongwe,Ngoni Health Centre,Health Centre,Government,Rural
+Lilongwe,Nkhoma Mission Hospital,Hospital,CHAM,Rural
+Lilongwe,Nsalu Health centre,Health Centre,Government,Rural
+Lilongwe,Nthondo Health centre,Health Centre,Government,Rural
+Lilongwe,St. Gabriel Mission Hospital,Hospital,CHAM,Rural
+Lilongwe,Ukwe Health Centre,Health Centre,Government,Rural
+Mchinji,Chiosya Health Centre,Health Centre,Government,Rural
+Mchinji,Chipumi Health Centre,Health Centre,Government,Rural
+Mchinji,Kaigwazanga Health Centre,Health Centre,Government,Rural
+Mchinji,Kapanga Health Centre,Health Centre,Government,Rural
+Mchinji,Kochilira Rural Hospital,Hospital,Government,Rural
+Mchinji,Mchinji District Hospital,Hospital,Government,Urban
+Mchinji,Mikundi Health Centre,Health Centre,Government,Rural
+Mchinji,Mkanda Health Centre,Health Centre,Government,Rural
+Mchinji,Nkhwazi Health Centre,Health Centre,Government,Rural
+Mchinji,Our Lady of Mount Carmel Rural,Hospital,CHAM,Rural
+Mchinji,St. Joseph Community Hospital,Hospital,CHAM,Rural
+Mchinji,St. Michael-Guillime,Hospital,CHAM,Rural
+Mchinji,Tembwe Health Centre,Health Centre,Government,Rural
+Nkhotakota,Alinafe Community Hospital,Hospital,CHAM,Rural
+Nkhotakota,Benga Health Centre,Health Centre,Government,Rural
+Nkhotakota,Bua Health Centre,Health Centre,Government,Rural
+Nkhotakota,Chididi Health Centre,Health Centre,CHAM,Rural
+Nkhotakota,Dwambazi Rural Hospital,Hospital,Government,Rural
+Nkhotakota,Kapili Health Centre,Health Centre,CHAM,Rural
+Nkhotakota,Kasitu Health Centre,Health Centre,CHAM,Rural
+Nkhotakota,Katimbira Health Centre,Health Centre,Government,Rural
+Nkhotakota,Liwaladzi Health Centre,Health Centre,CHAM,Rural
+Nkhotakota,Malowa Health Centre,Health Centre,Government,Rural
+Nkhotakota,Mpamantha Health Centre,Health Centre,Government,Rural
+Nkhotakota,Msenjere Health Centre,Health Centre,Government,Rural
+Nkhotakota,Mtosa Health Centre,Health Centre,Government,Rural
+Nkhotakota,Mwansambo Health Centre,Health Centre,Government,Rural
+Nkhotakota,Ngala Health Centre,Health Centre,Government,Rural
+Nkhotakota,Nkhotakota District Hospital,Hospital,Government,Urban
+Nkhotakota,Nkhunga Health Centre,Health Centre,Government,Rural
+Nkhotakota,St. Annes Hospital,Hospital,CHAM,Urban
+Ntcheu,Bilila Health Centre,Health Centre,Government,Rural
+Ntcheu,Biliwiri Health Cnetre,Health Centre,Government,Rural
+Ntcheu,Bwanje Health Centre,Health Centre,Government,Rural
+Ntcheu,Champiti Health Centre,Health Centre,Government,Rural
+Ntcheu,Chigodi Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Chikande Health Centre,Health Centre,Government,Rural
+Ntcheu,Doviko Health Centre,Health Centre,Government,Rural
+Ntcheu,Dzunje Health Centre,Health Centre,Government,Rural
+Ntcheu,Ganya Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Gowa Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Kalimanjira Health Centre,Health Centre,Government,Rural
+Ntcheu,Kaloga Maternity,Health Centre,Government,Rural
+Ntcheu,Kandeu Health Centre,Health Centre,Government,Rural
+Ntcheu,Kapeni Health Centre,Health Centre,Government,Rural
+Ntcheu,Kasinje Health Centre,Health Centre,Government,Rural
+Ntcheu,Katsekera Health Centre,Health Centre,Government,Rural
+Ntcheu,Lake View Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Lizulu Health Centre,Health Centre,Government,Rural
+Ntcheu,Manjawira Health Centre,Health Centre,Government,Rural
+Ntcheu,Matanda Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Mlanda Health Centre,Health Centre,CHAM,Urban
+Ntcheu,Mlangeni Health Centre,Health Centre,Government,Rural
+Ntcheu,Mtonda Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Mzama Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Nsipe Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Nsiyaludzu Health Centre,Health Centre,Government,Rural
+Ntcheu,Ntcheu District Hospital,Hospital,Government,Urban
+Ntcheu,Senzani Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Sharpe Valley Health Centre,Health Centre,CHAM,Rural
+Ntcheu,Sr. Tereza Rural Hospital,Hospital,CHAM,Rural
+Ntcheu,Tsangano Health Centre,Health Centre,CHAM,Rural
+Ntchisi,Chinguluwe Health Centre,Health Centre,Government,Rural
+Ntchisi,Chinthembwe Health Centre,Health Centre,CHAM,Rural
+Ntchisi,Kamsonga Health Centre,Health Centre,Government,Rural
+Ntchisi,Kangolwa Health centre,Health Centre,Government,Rural
+Ntchisi,Khuwi Health Centre,Health Centre,Government,Rural
+Ntchisi,Malambo Health Centre,Health Centre,CHAM,Rural
+Ntchisi,Malomo Health Centre,Health Centre,Government,Rural
+Ntchisi,Mkhuzi Health Centre,Health Centre,Government,Rural
+Ntchisi,Mndinda Health Centre,Health Centre,Government,Rural
+Ntchisi,Mzandu Health Centre,Health Centre,Government,Rural
+Ntchisi,Ntchisi District Hospital,Hospital,Government,Urban
+Ntchisi,Nthondo Health Centre,Health Centre,Government,Rural
+Salima,Baptist Medical Clinic,Health Centre,CHAM,Rural
+Salima,Chagunda Health Centre,Health Centre,Government,Rural
+Salima,Chinguluwe Health Centre,Health Centre,Government,Rural
+Salima,Chipoka Health Centre,Health Centre,Government,Rural
+Salima,Chitala Health Centre,Health Centre,CHAM,Rural
+Salima,Kaphatenga Health Centre,Health Centre,CHAM,Rural
+Salima,Khombedza Health Centre,Health Centre,Government,Rural
+Salima,Lifuwu Health Centre,Health Centre,Government,Rural
+Salima,MAFCO,Health Centre,Government,Rural
+Salima,Maganga Health Centre,Health Centre,Government,Rural
+Salima,Makioni Health Centre,Health Centre,Government,Rural
+Salima,Mchoka Health Centre,Health Centre,Government,Rural
+Salima,Ngodzi Health Centre,Health Centre,CHAM,Rural
+Salima,Parachute Battalion,Health Centre,Government,Rural
+Salima,Salima District Hospital,Hospital,Government,Urban
+Salima,Thavite Health Centre,Health Centre,CHAM,Rural
+Chitipa,Chambo Health Centre,Health Centre,CHAM,Rural
+Chitipa,District Hospital,Hospital,Government,Urban
+Chitipa,Ifumbo Health Centre,Health Centre,Government,Rural
+Chitipa,Kameme Health Centre,Health Centre,Government,Rural
+Chitipa,Kapenda Health Centre,Health Centre,Government,Urban
+Chitipa,Kaseye Mission Hospital,Hospital,CHAM,Rural
+Chitipa,Misuku Health Centre,Health Centre,Government,Rural
+Chitipa,Nthalire Health Centre,Health Centre,Government,Rural
+Chitipa,Wenya Health Centre,Health Centre,Government,Rural
+Karonga,Atupele Community Hospital,Hospital,CHAM,Rural
+Karonga,Chilumba Barracks,Health Centre,Government,Rural
+Karonga,Chilumba Rural Hospital,Hospital,Government,Rural
+Karonga,District Hospital,Hospital,Government,Urban
+Karonga,Fulirwa Health Centre,Health Centre,Government,Rural
+Karonga,Iponga Health Centre,Health Centre,Government,Rural
+Karonga,Kaporo Rural Hospital,Hospital,Government,Rural
+Karonga,Kasoba Health Centre,Health Centre,Government,Rural
+Karonga,Lupembe Health Centre,Health Centre,Government,Rural
+Karonga,Lwezga Health Centre,Health Centre,Government,Rural
+Karonga,Mlare Health Centre,Health Centre,Government,Rural
+Karonga,Mpata Health Centre,Health Centre,Government,Rural
+Karonga,Ngana Health Centre,Health Centre,Government,Rural
+Karonga,Nyungwe Health Centre,Health Centre,Government,Rural
+Karonga,Sangiro Health centre,Health Centre,CHAM,Rural
+Karonga,St. Anne's Health Centre,Health Centre,CHAM,Rural
+Karonga,Wiliro Health Centre,Health Centre,Government,Rural
+Likoma,St. Mary's - Chizumulu Health C,Health Centre,Government,Rural
+Likoma,St. Peters,Hospital,CHAM,Urban
+Mzimba North,Bwengu Health Centre,Health Centre,Government,Urban
+Mzimba North,Choma Health Centre,Health Centre,Government,Rural
+Mzimba North,Ekwendeni Mission Hospital,Hospital,CHAM,Urban
+Mzimba North,Emsizini Health Centre,Health Centre,Government,Rural
+Mzimba North,Engucwini Health Centre,Health Centre,Government,Rural
+Mzimba North,Enukweni Health Centre,Health Centre,Government,Rural
+Mzimba North,Kabwafu Health Centre,Health Centre,Government,Rural
+Mzimba North,Kamwe Health Centre,Health Centre,Government,Rural
+Mzimba North,Kaweche Health Centre,Health Centre,Government,Rural
+Mzimba North,Luvwere Health Centre,Health Centre,Government,Rural
+Mzimba North,Luzi Health Centre,Health Centre,Government,Rural
+Mzimba North,Malidade Health Centre,Health Centre,Government,Rural
+Mzimba North,Manolo Health Centre,Health Centre,Government,Rural
+Mzimba North,Matuli Health Centre,Health Centre,Government,Rural
+Mzimba North,Mpherembe Health Centre,Health Centre,Government,Rural
+Mzimba North,Mtende Health Centre,Health Centre,Government,Rural
+Mzimba North,Mtwalo Health Centre,Health Centre,Government,Rural
+Mzimba North,Mzuzu Cental Hospital,Hospital,Government,Urban
+Mzimba North,Mzuzu Health Centre,Health Centre,Government,Urban
+Mzimba North,Njuyu Health Centre,Health Centre,Government,Rural
+Mzimba North,Nkhorongo Health Centre,Health Centre,CHAM,Rural
+Mzimba North,Nkhuyukuyu Health Centre,Health Centre,Government,Rural
+Mzimba North,St. Johns Hospital,Hospital,CHAM,Urban
+Mzimba North,Thunduwike Health Centre,Health Centre,Government,Rural
+Mzimba South,Bulala Health Centre,Health Centre,Government,Rural
+Mzimba South,Chikangawa Health Centre,Health Centre,Government,Rural
+Mzimba South,Edingeni Health Centre,Health Centre,Government,Rural
+Mzimba South,Embangweni Mission Hospital,Hospital,CHAM,Rural
+Mzimba South,Emfeni Health Centre,Health Centre,Government,Rural
+Mzimba South,Endindeni Health Centre,Health Centre,Government,Rural
+Mzimba South,Euthini Rural Hospital,Hospital,Government,Rural
+Mzimba South,Hoho Health Centre,Health Centre,Government,Rural
+Mzimba South,Jenda Health Centre,Health Centre,Government,Rural
+Mzimba South,Kafukule Health Centre,Health Centre,Government,Rural
+Mzimba South,Kalikumbi Health Centre,Health Centre,CHAM,Rural
+Mzimba South,Kamteteka Health Centre,Health Centre,Government,Rural
+Mzimba South,Katete Community Hospital,Hospital,CHAM,Rural
+Mzimba South,Khosolo Health Centre,Health Centre,Government,Rural
+Mzimba South,Lunjika Health Centre,Health Centre,CHAM,Rural
+Mzimba South,Luwawa Health Centre,Health Centre,Government,Rural
+Mzimba South,Luwelezi Health Centre,Health Centre,Government,Rural
+Mzimba South,Mabiri Health Centre,Health Centre,CHAM,Rural
+Mzimba South,Madede Health Centre,Health Centre,Government,Rural
+Mzimba South,Manyamula Health Centre,Health Centre,Government,Rural
+Mzimba South,Mbalachanda Health Centre,Health Centre,Government,Rural
+Mzimba South,Mhalaunda Health Centre,Health Centre,CHAM,Rural
+Mzimba South,Mkoma Health Centre,Health Centre,Government,Rural
+Mzimba South,Msese Health Centre,Health Centre,Government,Rural
+Mzimba South,Mzalangwe Health Centre,Health Centre,Government,Rural
+Mzimba South,Mzambazi Community Hospital,Hospital,CHAM,Rural
+Mzimba South,Mzimba District Hospital,Hospital,Government,Urban
+Nkhatabay,Bay District Hospital,Hospital,Government,Urban
+Nkhatabay,Bula Health Centre,Health Centre,Government,Rural
+Nkhatabay,Chesamu Health Centre,Health Centre,Government,Rural
+Nkhatabay,Chikwina Health Centre,Health Centre,Government,Rural
+Nkhatabay,Chilambwe Health Centre,Health Centre,CHAM,Rural
+Nkhatabay,Chintcheche Rural Hospital,Hospital,Government,Urban
+Nkhatabay,Chisala Health Centre,Health Centre,Government,Rural
+Nkhatabay,Chitheka Health Centre,Health Centre,Government,Rural
+Nkhatabay,Kachere Health Centre,Health Centre,Government,Rural
+Nkhatabay,Kande Health Centre,Health Centre,Government,Rural
+Nkhatabay,Liuzi Health Centre,Health Centre,Government,Rural
+Nkhatabay,Lwazi Health Centre,Health Centre,CHAM,Rural
+Nkhatabay,Maula Health Centre,Health Centre,Government,Rural
+Nkhatabay,Mpamba Health Centre,Health Centre,Government,Rural
+Nkhatabay,Mzenga Health Centre,Health Centre,Government,Rural
+Nkhatabay,Nthungwa Health Centre,Health Centre,Government,Rural
+Nkhatabay,Usisya Health Centre,Health Centre,Government,Rural
+Rumphi,Bolero Rural Hospital,Hospital,Government,Urban
+Rumphi,Chisimuka Health Centre,Health Centre,Government,Rural
+Rumphi,Chitimba Health Centre,Health Centre,Government,Rural
+Rumphi,District Hospital,Hospital,Government,Urban
+Rumphi,Jalawe Health Centre,Health Centre,Government,Rural
+Rumphi,Katowo Rural Hospital,Hospital,Government,Rural
+Rumphi,Livingstonia Mission Hospital,Hospital,CHAM,Rural
+Rumphi,Lura Health Centre,Health Centre,Government,Rural
+Rumphi,Luwuchi Health Centre,Health Centre,CHAM,Rural
+Rumphi,Mhuju Rural Hospital,Hospital,Government,Rural
+Rumphi,Mlowe Health Centre,Health Centre,CHAM,Rural
+Rumphi,Mphompha Health Centre,Health Centre,Government,Rural
+Rumphi,Mwazisi Health Centre,Health Centre,Government,Rural
+Rumphi,Mzokoto Health Centre,Health Centre,Government,Rural
+Rumphi,Nthenje Health Centre,Health Centre,CHAM,Rural
+Rumphi,St. Patricks Health Centre,Health Centre,CHAM,Urban
+Balaka,Balaka District Hospital,Hospital,Government,Urban
+Balaka,Chiendausiku Health Centre,Health Centre,Government,Rural
+Balaka,Comfort Clinic,Health Centre,CHAM,Urban
+Balaka,Kalembo Health Centre,Health Centre,Government,Rural
+Balaka,Kankao Health Centre,Health Centre,CHAM,Rural
+Balaka,Kwitanda Health Centre,Health Centre,Government,Rural
+Balaka,Mbera Health Centre,Health Centre,Government,Rural
+Balaka,Namanolo Health Centre,Health Centre,Government,Rural
+Balaka,Namdumbo Health Centre,Health Centre,Government,Rural
+Balaka,Phalula Health Centre,Health Centre,CHAM,Rural
+Balaka,Phimbi Health Centre,Health Centre,Government,Rural
+Balaka,Ulongwe Health Centre,Health Centre,CHAM,Rural
+Balaka,Utale 1 Health Centre,Health Centre,CHAM,Rural
+Balaka,Utale 2 Health Centre,Health Centre,CHAM,Rural
+Blanytyre,Bangwe Health Centre,Health Centre,Government,Urban
+Blanytyre,Blantyre Adventist Hospital,Hospital,CHAM,Urban
+Blanytyre,Chabvala Health Centre,Health Centre,Government,Rural
+Blanytyre,Chikowa Health Centre,Health Centre,Government,Rural
+Blanytyre,Chileka Health Centre,Health Centre,Government,Urban
+Blanytyre,Chileka SDA Health Centre,Health Centre,CHAM,Rural
+Blanytyre,Chilomoni Health Centre,Health Centre,Government,Urban
+Blanytyre,Chimembe Health Centre,Health Centre,Government,Rural
+Blanytyre,Dziwe Health Centre,Health Centre,Government,Rural
+Blanytyre,Kadidi Health Centre,Health Centre,Government,Rural
+Blanytyre,Kapeni Dream Centre,Health Centre,CHAM,Urban
+Blanytyre,Limbe Health Centre,Health Centre,Government,Urban
+Blanytyre,Lirangwe Health Centre,Health Centre,Government,Rural
+Blanytyre,Lundu Health Centre,Health Centre,Government,Rural
+Blanytyre,Madziabango Health Centre,Health Centre,Government,Rural
+Blanytyre,Makata Health Centre,Health Centre,Government,Rural
+Blanytyre,Makhetha Clinic,Health Centre,Government,Rural
+Blanytyre,Malabada Health Centre,Health Centre,CHAM,Urban
+Blanytyre,Mdeka Health Centre,Health Centre,Government,Rural
+Blanytyre,Mlambe Hospital,Hospital,CHAM,Urban
+Blanytyre,Mpemba Health Centre,Health Centre,Government,Rural
+Blanytyre,Namikoko Health Centre,Health Centre,Government,Rural
+Blanytyre,Ndirande Health Centre,Health Centre,Government,Urban
+Blanytyre,Pensulo Health Centre,Health Centre,Government,Rural
+Blanytyre,Queen Elizabeth Central Hospit,Hospital,Government,Urban
+Blanytyre,Soche Maternity,Health Centre,Government,Rural
+Blanytyre,South Lunzu Health Centre,Health Centre,Government,Rural
+Blanytyre,St Vincent Health Centre,Health Centre,CHAM,Urban
+Blanytyre,Zingwangwa Health Centre,Health Centre,Government,Urban
+Chikwawa,Beleu Health Centre,Health Centre,Government,Rural
+Chikwawa,Chang'ambika Health Centre,Health Centre,Government,Rural
+Chikwawa,Chapananga Health Centre,Health Centre,Government,Rural
+Chikwawa,Chapwaila Health Centre,Health Centre,Government,Rural
+Chikwawa,Chikwawa District Hospital,Hospital,Government,Urban
+Chikwawa,Chithumba Health Centre,Health Centre,Government,Rural
+Chikwawa,Dolo Health Centre,Health Centre,Government,Rural
+Chikwawa,Gaga Health Centre,Health Centre,Government,Rural
+Chikwawa,Kakoma Health Centre,Health Centre,Government,Rural
+Chikwawa,Makhwira Health Centre,Health Centre,Government,Rural
+Chikwawa,Maperera Health Centre,Health Centre,Government,Rural
+Chikwawa,Mfera Health Centre,Health Centre,Government,Rural
+Chikwawa,Misomali Health Centre,Health Centre,CHAM,Rural
+Chikwawa,Ndakwera Health Centre,Health Centre,Government,Rural
+Chikwawa,Ngabu Rural Hospital,Hospital,Government,Rural
+Chikwawa,Ngabu SDA Health Centre,Health Centre,CHAM,Rural
+Chikwawa,Nkumaniza Health Centre,Health Centre,Government,Rural
+Chikwawa,St Montfort Hospital,Hospital,CHAM,Rural
+Chiradzulu,Chiradzulu District Hospital,Hospital,Government,Rural
+Chiradzulu,Chitera Health Centre,Health Centre,Government,Rural
+Chiradzulu,Mauwa Health Centre,Health Centre,Government,Rural
+Chiradzulu,Mbulumbuzi Health Centre,Health Centre,Government,Rural
+Chiradzulu,Milepa Health Centre,Health Centre,Government,Rural
+Chiradzulu,Namadzi Health Centre,Health Centre,Government,Rural
+Chiradzulu,Namitambo Health Centre,Health Centre,Government,Rural
+Chiradzulu,Ndunde Health Centre,Health Centre,Government,Rural
+Chiradzulu,Nkalo Health Centre,Health Centre,Government,Rural
+Chiradzulu,PIM Health Centre,Health Centre,CHAM,Rural
+Chiradzulu,St. Joseph Hospital,Hospital,CHAM,Rural
+Chiradzulu,Thumbwe Health Centre,Health Centre,Government,Rural
+Machinga,Chikweo Health Centre,Health Centre,Government,Rural
+Machinga,Gawanani Health Centre,Health Centre,CHAM,Rural
+Machinga,Machinga District Hospital,Hospital,Government,Urban
+Machinga,Machinga Health Centre,Health Centre,Government,Rural
+Machinga,Mangamba Health Centre,Health Centre,Government,Rural
+Machinga,Mkwepere Health Centre,Health Centre,Government,Rural
+Machinga,Mpiri Health Centre,Health Centre,CHAM,Rural
+Machinga,Mposa Health Centre,Health Centre,CHAM,Rural
+Machinga,Namandanje Health Centre,Health Centre,CHAM,Rural
+Machinga,Namanja Health Centre,Health Centre,Government,Rural
+Machinga,Nayinunje Health Centre,Health Centre,Government,Rural
+Machinga,Nayuchi Health Centre,Health Centre,Government,Rural
+Machinga,Ngokwe Health Centre,Health Centre,Government,Rural
+Machinga,Nsanama Health Centre,Health Centre,CHAM,Rural
+Machinga,Ntaja Health Centre,Health Centre,Government,Rural
+Machinga,Nthorowa Health Centre,Health Centre,CHAM,Rural
+Machinga,Nyambi Health Centre,Health Centre,Government,Rural
+Mangochi,Chikole Dispensary,Health Centre,Government,Rural
+Mangochi,Chilipa Health Centre,Health Centre,Government,Rural
+Mangochi,Chilonga Health care,Health Centre,Government,Rural
+Mangochi,Jalasi Health Centre,Health Centre,Government,Rural
+Mangochi,Kadango Health Centre,Health Centre,Government,Rural
+Mangochi,Katema Health Centre,Health Centre,CHAM,Rural
+Mangochi,Katuli Health Centre,Health Centre,Government,Rural
+Mangochi,Koche Health Centre,Health Centre,CHAM,Rural
+Mangochi,Lugola Health Centre,Health Centre,CHAM,Rural
+Mangochi,Lulanga Health Centre,Health Centre,CHAM,Rural
+Mangochi,Lungwena Health Centre,Health Centre,Government,Rural
+Mangochi,Luwalika Health Centre,Health Centre,CHAM,Rural
+Mangochi,Makanjira Health Centre,Health Centre,Government,Rural
+Mangochi,Malembo Health Centre,Health Centre,CHAM,Rural
+Mangochi,Malukula Health Centre,Health Centre,Government,Rural
+Mangochi,Mangochi District Hospital,Hospital,Government,Urban
+Mangochi,Mase Health Centre,Health Centre,CHAM,Rural
+Mangochi,Mkumba Health Centre,Health Centre,Government,Rural
+Mangochi,Monkeybay Community Hospital,Hospital,Government,Rural
+Mangochi,Mpondasi Health Centre,Health Centre,CHAM,Rural
+Mangochi,Mtimabi Health Centre,Health Centre,Government,Rural
+Mangochi,Mulibwanji Hospital,Hospital,CHAM,Rural
+Mangochi,Namalaka Health Centre,Health Centre,CHAM,Rural
+Mangochi,Namwera Health Centre,Hospital,Government,Rural
+Mangochi,Nangalamu Health Centre,Health Centre,Government,Rural
+Mangochi,Nankhwali Health Centre,Health Centre,CHAM,Rural
+Mangochi,Nankumba Health Centre,Health Centre,Government,Rural
+Mangochi,Nkope Health Centre,Health Centre,CHAM,Rural
+Mangochi,Phirilongwe Health Centre,Health Centre,Government,Rural
+Mangochi,Sister Martha Health Centre,Health Centre,CHAM,Rural
+Mangochi,St. Martins Mission Hospital,Hospital,CHAM,Rural
+Mulanje,Bondo Health Centre,Health Centre,Government,Rural
+Mulanje,Chambe Health Centre,Health Centre,Government,Rural
+Mulanje,Chinyama Health Centre,Health Centre,Government,Rural
+Mulanje,Chisitu Health Centre,Health Centre,Government,Rural
+Mulanje,Chonde Health Centre,Health Centre,Government,Rural
+Mulanje,Dzenje Health Centre,Health Centre,Government,Rural
+Mulanje,Kambenje Health Centre,Health Centre,Government,Rural
+Mulanje,Lujeri Health Centre,Health Centre,Government,Rural
+Mulanje,Mbiza Health Centre,Health Centre,Government,Rural
+Mulanje,Milonde Health Centre,Health Centre,Government,Rural
+Mulanje,Mkomaula Health Centre,Health Centre,Government,Rural
+Mulanje,Mpala Health Centre,Health Centre,Government,Rural
+Mulanje,Mulanje District Hospital,Hospital,Government,Urban
+Mulanje,Mulanje Mission Hospital,Hospital,CHAM,Rural
+Mulanje,Mulomba Health Centre,Health Centre,Government,Rural
+Mulanje,Muloza Heath Centre,Health Centre,Government,Rural
+Mulanje,Namasalima Health Centre,Health Centre,CHAM,Rural
+Mulanje,Namphungo Health Centre,Health Centre,Government,Rural
+Mulanje,Namulenga Health Centre,Health Centre,CHAM,Rural
+Mulanje,Naphimba Health Centre,Health Centre,Government,Rural
+Mulanje,Thembe Health Centre,Health Centre,CHAM,Rural
+Mulanje,Thuchila Health Centre,Health Centre,Government,Urban
+Mwanza,Kunenekude Health Centre,Health Centre,Government,Rural
+Mwanza,Mwanza District Hospital,Hospital,Government,Urban
+Mwanza,Thambani Health Centre,Health Centre,Government,Rural
+Mwanza,Tulonkhondo Health Centre,Health Centre,Government,Urban
+Neno,Chifunga Health Centre,Health Centre,Government,Rural
+Neno,Ligowe Health Centre,Health Centre,Government,Urban
+Neno,Lisungwi Community Hospital,Hospital,Government,Rural
+Neno,Luwani Health Centre,Health Centre,Government,Rural
+Neno,Magaleta Health Centre,Health Centre,Government,Rural
+Neno,Matandani Health Centre,Health Centre,CHAM,Rural
+Neno,Matope Health Centre,Health Centre,CHAM,Rural
+Neno,Neno District Hospital,Hospital,Government,Rural
+Neno,Neno Parish Health Centre,Health Centre,CHAM,Rural
+Neno,Nsambe Health Centre,Health Centre,CHAM,Rural
+Nsanje,Chididi Health Centre,Health Centre,CHAM,Rural
+Nsanje,Kalemba Community Hospital,Hospital,CHAM,Rural
+Nsanje,Lulwe Health Centre,Health Centre,CHAM,Rural
+Nsanje,Masenjere Health Centre,Health Centre,Government,Rural
+Nsanje,Mbenje Health Centre,Health Centre,Government,Rural
+Nsanje,Ndamera Health Centre,Health Centre,Government,Rural
+Nsanje,Nsanje District Hospital,Hospital,Government,Urban
+Nsanje,Nyamithuthu Health Centre,Health Centre,Government,Rural
+Nsanje,Phokera Health Centre,Health Centre,Government,Rural
+Nsanje,Sankhulani Health Centre,Health Centre,Government,Rural
+Nsanje,Sorgin Health Centre,Health Centre,Government,Rural
+Nsanje,Tengani Health Centre,Health Centre,Government,Rural
+Nsanje,Trinity Hospital,Hospital,CHAM,Rural
+Phalombe,Chiringa CHAM Health Centre,Health Centre,CHAM,Rural
+Phalombe,Chiringa Maternity,Health Centre,Government,Rural
+Phalombe,Chitekesa Health Centre,Health Centre,Government,Rural
+Phalombe,Holy Family Hospital,Hospital,CHAM,Rural
+Phalombe,Kalinde Health Centre,Health Centre,Government,Rural
+Phalombe,Migowi Health Centre,Health Centre,Government,Rural
+Phalombe,Mkhwayi Health Centre,Health Centre,Government,Rural
+Phalombe,Mpasa Health Centre,Health Centre,Government,Rural
+Phalombe,Mwanga Health Centre,Health Centre,CHAM,Rural
+Phalombe,Nambazo Health Centre,Health Centre,Government,Rural
+Phalombe,Nazombe Health Centre (GoGo),Health Centre,Government,Rural
+Phalombe,Nkhulambe Health Centre,Health Centre,Government,Rural
+Phalombe,Phalombe Health Centre,Health Centre,Government,Rural
+Phalombe,Sukasanje Health Centre,Health Centre,CHAM,Rural
+Thyolo,Bvumbwe Health Centre,Health Centre,Government,Rural
+Thyolo,Bvumbwe Makungwa Health Centre,Health Centre,Government,Rural
+Thyolo,Chimaliro Health Centre,Health Centre,Government,Rural
+Thyolo,Chimvu,Health Centre,Government,Rural
+Thyolo,Chingadzi Rural Hospital,Hospital,CHAM,Rural
+Thyolo,Chipho Health Centre,Health Centre,CHAM,Rural
+Thyolo,Chisoka Health Centre,Health Centre,Government,Rural
+Thyolo,Chithebe Health Centre,Health Centre,Government,Rural
+Thyolo,Dzimbiri Health Centre (DiDi),Health Centre,Government,Rural
+Thyolo,GOMBE HEALTH FACILITY,Health Centre,Government,Rural
+Thyolo,Khonjeni Health Centre,Health Centre,Government,Rural
+Thyolo,Magunda Health Centre,Health Centre,Government,Rural
+Thyolo,Makapwa Health Centre,Health Centre,CHAM,Rural
+Thyolo,Malamulo Mission Hospital,Hospital,CHAM,Rural
+Thyolo,Mikolongwe Health Centre,Health Centre,Government,Rural
+Thyolo,Mitengo Health Centre,Health Centre,CHAM,Rural
+Thyolo,Molere Health Centre,Health Centre,CHAM,Rural
+Thyolo,Thekerani Rural Hospital,Hospital,Government,Rural
+Thyolo,Thomasi Health Centre,Health Centre,CHAM,Urban
+Thyolo,Thyolo District Hospital,Hospital,Government,Urban
+Thyolo,Zoa Health Centre,Health Centre,Government,Rural
+Zomba,Bimbi Health Centre,Health Centre,Government,Rural
+Zomba,Chamba Health Centre,Health Centre,Government,Rural
+Zomba,Changalume Barracks,Health Centre,Government,Rural
+Zomba,Chilipa Health Centre,Health Centre,CHAM,Rural
+Zomba,Chingale Health Centre,Health Centre,Government,Rural
+Zomba,Chipini Health Centre,Health Centre,CHAM,Rural
+Zomba,Cobbe Barracks,Hospital,Government,Urban
+Zomba,Domasi Rural Hospital,Hospital,Government,Rural
+Zomba,H Parker Sharp Dispensary,Health Centre,CHAM,Rural
+Zomba,Lambulira Health Centre,Health Centre,Government,Rural
+Zomba,Likangala Health Centre,Health Centre,Government,Rural
+Zomba,Machinjiri Health Centre,Health Centre,Government,Rural
+Zomba,Magomero Health Centre,Health Centre,CHAM,Rural
+Zomba,Makwapala Health Centre,Health Centre,Government,Rural
+Zomba,Matawale Health Centre,Health Centre,Government,Urban
+Zomba,Matiya Health Centre,Health Centre,CHAM,Rural
+Zomba,Mayaka Health Centre,Health Centre,CHAM,Rural
+Zomba,M'mambo Health Centre,Health Centre,Government,Rural
+Zomba,Naisi Health Centre,Health Centre,Government,Rural
+Zomba,Namadidi Health Centre,Health Centre,Government,Rural
+Zomba,Namasalima Health Centre,Health Centre,Government,Rural
+Zomba,Nasawa Health Centre,Health Centre,Government,Rural
+Zomba,Ngwelelo Health Centre,Health Centre,Government,Rural
+Zomba,Nkasala Health Centre,Health Centre,CHAM,Rural
+Zomba,Pirimiti Rural Hospital,Hospital,CHAM,Rural
+Zomba,Police College Hospital,Hospital,Government,Urban
+Zomba,Sadzi Health Centre,Health Centre,Government,Urban
+Zomba,St. Lukes Mission Hospital,Hospital,CHAM,Rural
+Zomba,Thondwe Health Centre,Health Centre,Government,Rural
+Zomba,Zilindo Health Centre,Health Centre,Government,Rural
+Zomba,Zomba Central Hospital,Hospital,Government,Urban
+Zomba,Zomba Mental Hospital,Hospital,Government,Urban

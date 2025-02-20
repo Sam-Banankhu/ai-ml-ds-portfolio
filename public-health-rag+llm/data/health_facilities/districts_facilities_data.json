@@ -1,0 +1,4662 @@
+{
+    "districts": [
+        {
+            "id": "8de7c36a-c38c-49cf-b161-885a51003809",
+            "name": "Dedza"
+        },
+        {
+            "id": "d86b5ae6-76da-488e-b4e9-ea29805f4453",
+            "name": "Dowa"
+        },
+        {
+            "id": "c988c647-9014-4e45-a3f7-f8185740e931",
+            "name": "Kasungu"
+        },
+        {
+            "id": "be54c12b-d0f0-4066-9d89-2e9b20ca1ebb",
+            "name": "Kasungu "
+        },
+        {
+            "id": "c3d0272a-0671-4127-a91d-b81f7c381427",
+            "name": "Lilongwe"
+        },
+        {
+            "id": "9622b5a4-9c15-44c6-a629-877720235a07",
+            "name": "Mchinji"
+        },
+        {
+            "id": "f9879218-5ca1-4aea-92b5-22027241327c",
+            "name": "Nkhotakota"
+        },
+        {
+            "id": "30eac42a-9dab-4b97-b736-c631a9bd633f",
+            "name": "Ntcheu"
+        },
+        {
+            "id": "77607022-024a-4ec4-a166-21aaf1d20cb2",
+            "name": "Ntchisi"
+        },
+        {
+            "id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8",
+            "name": "Salima"
+        },
+        {
+            "id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4",
+            "name": "Chitipa"
+        },
+        {
+            "id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a",
+            "name": "Karonga"
+        },
+        {
+            "id": "a075f45f-69cb-4dcd-bf90-433ef1363f36",
+            "name": "Likoma"
+        },
+        {
+            "id": "29f77153-eac6-455b-b217-c71e1d051418",
+            "name": "Mzimba North"
+        },
+        {
+            "id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb",
+            "name": "Mzimba South"
+        },
+        {
+            "id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8",
+            "name": "Nkhatabay"
+        },
+        {
+            "id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a",
+            "name": "Rumphi"
+        },
+        {
+            "id": "153df368-64bd-41b5-af7b-b7c6af6496c0",
+            "name": "Balaka"
+        },
+        {
+            "id": "d4c811da-5699-48d2-8d32-dd9be0b07455",
+            "name": "Blanytyre"
+        },
+        {
+            "id": "5c36a053-215e-4afe-b203-98153bb9f0f7",
+            "name": "Chikwawa"
+        },
+        {
+            "id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8",
+            "name": "Chiradzulu"
+        },
+        {
+            "id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4",
+            "name": "Machinga"
+        },
+        {
+            "id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda",
+            "name": "Mangochi"
+        },
+        {
+            "id": "bb32151f-1904-4e6d-93e8-32a44f2216c6",
+            "name": "Mulanje"
+        },
+        {
+            "id": "01a20a25-2821-406e-90e5-1c8a2b8665b5",
+            "name": "Mwanza"
+        },
+        {
+            "id": "60a7f843-f13c-4322-8ff8-3c58183cfafb",
+            "name": "Neno"
+        },
+        {
+            "id": "7f7253f5-71ce-4492-9efb-2795f25dde2c",
+            "name": "Nsanje"
+        },
+        {
+            "id": "4b52a607-7b54-4996-b506-33adffdf49b8",
+            "name": "Phalombe"
+        },
+        {
+            "id": "6bf2cae9-c9c4-4240-ad75-f8e109466824",
+            "name": "Thyolo"
+        },
+        {
+            "id": "7f4face8-0f17-411f-a425-e0042d4aa10e",
+            "name": "Zomba"
+        }
+    ],
+    "facilities": [
+        {
+            "id": "69419406-7aa6-4afe-a2da-9a2dcdd8c51e",
+            "name": "Bembeke Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "9222b00b-4275-470d-bf2e-45fe4ccf49e6",
+            "name": "Chikuse Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "64a53c5b-ac51-41b2-8351-ddd49b2e72e5",
+            "name": "Chimoto Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "2b474144-2780-498a-ac69-fd4df45e1384",
+            "name": "Chitowo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "8899268b-639b-4643-8086-e3b88950efe3",
+            "name": "Dedza District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "8b989d63-33b3-4da7-9aee-cfe76ce26283",
+            "name": "Dzindevu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "f73e5ca4-cde3-4b10-80d3-a44d1a63124b",
+            "name": "Golomoti Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "4552c554-2a51-4af6-a4ee-a0aebe7cef76",
+            "name": "Kafere Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "9a91b104-3701-412f-82a8-04fc2a1429f5",
+            "name": "Kalulu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "5f49e3af-2734-4744-a533-da9d77483a3f",
+            "name": "Kanyama Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "7e9e1382-3c99-4ac9-a08d-2bd3b1f4cf83",
+            "name": "Kanyezi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "39f7e56c-d6eb-45f3-9c98-d80d3b6dfb94",
+            "name": "Kaphuka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "15fd52bc-3a4f-44eb-b4bf-be6eb67c39c9",
+            "name": "Kasina Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "b18e6aa6-3bdd-4f3d-bf4a-8d0f49f8fdae",
+            "name": "Kaundu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "e2ee023e-8131-4472-9366-a7967877a5fb",
+            "name": "Lobi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "c756855c-be2a-43b7-9c7f-6cdfd52a9382",
+            "name": "Maonde Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "ee16214a-7b52-43f3-bd91-23bc3496beef",
+            "name": "Matumba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "51feeba4-2627-4ecd-9bd6-8b1a0b1b335d",
+            "name": "Mayani Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "1866552f-d3fc-4288-a209-20466438d19f",
+            "name": "Mganja Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "06ce7c24-e7d9-44f2-a691-607abfa24dcd",
+            "name": "Mikondo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "67ec5704-8341-48e2-be39-01992e788da7",
+            "name": "Mlangali Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "95801786-3567-4543-9a35-c7cfddf8bc8a",
+            "name": "Mphathi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "06f91ae7-bd19-4c0c-a2e3-e403f510ed44",
+            "name": "Mphunzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "a9fddea2-c406-4582-a30b-9b584d907d33",
+            "name": "Mtakataka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "9030089f-a873-43ff-9f45-bfe630069423",
+            "name": "Mtendere Health Centre",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "78d9bfb8-8a1e-4d34-a3ec-6b33dd74f353",
+            "name": "Mua Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "3a25f451-0ece-4565-8adb-3228b020328f",
+            "name": "Nakalanzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "cfdf9e6b-60cf-4f32-861e-023ed5cd124f",
+            "name": "Ntakataka Police Dispensary",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8de7c36a-c38c-49cf-b161-885a51003809"
+        },
+        {
+            "id": "61c15e3c-2e4a-41c4-b1f0-e4328c5fcaab",
+            "name": "Bowe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "f15e3128-92a6-4e41-a52c-3766b6e28769",
+            "name": "Chakhaza Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "1d9bf43e-5042-4875-bcdb-70519d5683a4",
+            "name": "Chankhungu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "311b0c3f-51e3-4aa9-9980-dc6a413efb7a",
+            "name": "Chinkhwiri Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "8d0d2eb1-c15f-4bc5-bf07-cacf78cb71c6",
+            "name": "Chisepo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "f98cda6b-bc11-4ceb-8891-2a678a2e9a01",
+            "name": "Chizolowondo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "ca75249d-52bc-40c7-84eb-e73716c15546",
+            "name": "Dzaleka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "2d482cae-a26d-4dbf-b9af-168cf97320c4",
+            "name": "Dzoole Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "d7f7bce7-7fe1-4f61-b582-2259619b7897",
+            "name": "Kayembe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "6a9a3d6d-6af5-49dc-bc9f-89f81c547f65",
+            "name": "Madisi Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "ed6b35df-c010-4e0a-8a99-c157ca0c3987",
+            "name": "Mbingwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "19814a27-d4d7-4475-8d58-0924357efd09",
+            "name": "Mponela Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "0fcfc26b-b9c3-4c5e-99e0-88a50ad0bfca",
+            "name": "Msakambewa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "7762e133-ab18-4803-a7f7-f1190526a106",
+            "name": "Mthengathenga Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "8990b51b-8e51-4df4-93d4-5d83cfeba260",
+            "name": "Mvera Army Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "dfa0cc09-8756-4fc7-81b9-a0a4c5a5a244",
+            "name": "Mvera Mission Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "88dd9634-45df-4d7b-88cd-36b80b3cc0e3",
+            "name": "Mwangala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "a52e0117-20c8-4f88-ad2c-e0e8904c89a9",
+            "name": "Nalunga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "8bf55eed-39cd-4d54-882e-1c560f6ca157",
+            "name": "St. Mary's Rehabilitation Heal",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "7649f812-1b79-4896-8017-120f02eec6b0",
+            "name": "Thonje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d86b5ae6-76da-488e-b4e9-ea29805f4453"
+        },
+        {
+            "id": "726873f1-88d7-49a6-8e89-6b564d178991",
+            "name": "Anchor Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "7b1a88a0-63af-4bf5-b611-c1f0c9fe80f8",
+            "name": "Chamama Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "8965077e-3cab-47ee-9335-3dfdd00273e1",
+            "name": "Chamwabvi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "b945712a-5447-4544-8ec2-d02d94ad622f",
+            "name": "Chinyama Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "4116d2e9-7173-407a-ac1c-522b6cde3b6b",
+            "name": "Chulu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "9830ee52-57f1-4d5f-8c42-f349eccb0a02",
+            "name": "Kaluluma Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "055555e3-2d65-4c5d-9dbf-9009de82c6b8",
+            "name": "Kamboni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "37153d48-df09-4558-8942-2daf0045d4ed",
+            "name": "Kapelula Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "83828f2e-ce35-4dfa-8453-3da9467391e7",
+            "name": "Kasalika Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "432818ca-32ca-429a-b818-01b97222c636",
+            "name": "Kasungu District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "7f9f090b-8132-4017-9192-fdc1ed28bc8f",
+            "name": "Kawamba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "a1762f8a-ec0c-480d-9c76-0eb592fedecc",
+            "name": "Khola Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "aa2d0c61-bb67-43d5-afc7-0667e6494426",
+            "name": "KTFT/Mziza Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "61b68dc5-cede-4bb2-a8e0-fe3e3a69bc63",
+            "name": "Linyangwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "cca5bbf4-1d53-4a3e-af66-33a872243606",
+            "name": "Livwezi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "6839ecc9-6fb3-42d4-94d2-df02669d048a",
+            "name": "Lodjwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "d87da41e-f8d3-4d08-8442-de7e3cf9322e",
+            "name": "Mdunga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "f186ec0d-04e9-4567-8585-b08f22b36d21",
+            "name": "Mkhota Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "31ce0711-eced-46de-a358-738cba50fd70",
+            "name": "Mnyanja Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "592823fe-15da-46ea-a02f-5d4ab95bc319",
+            "name": "Mpepa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "88f03e34-e442-4a9e-be84-37f0b2f61889",
+            "name": "Mtunthama Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "0b2fe203-3558-45bb-8612-53687d4e7f12",
+            "name": "Newa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "bd929149-6066-4c1b-aa29-968e23d12870",
+            "name": "Nkhamenya Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "c69f7c22-3a46-4b20-8d33-3ca04f606637",
+            "name": "Ofesi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "61b734ca-f850-4ab8-bde6-4be143099c69",
+            "name": "Santhe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "ea6446f3-9f60-47c6-a04f-c7d99fdfbe97",
+            "name": "Simlemba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "b07560d6-da0a-4f17-9736-f2a6e72ba806",
+            "name": "St. Andrews Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "491e0a2e-843c-4071-bee2-5292955013ad",
+            "name": "Thupa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "01eb5b80-6fb1-4037-a059-686572808286",
+            "name": "Wimbe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c988c647-9014-4e45-a3f7-f8185740e931"
+        },
+        {
+            "id": "4d9f46fa-4a64-4352-8e24-c3240e746048",
+            "name": "Bua Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "be54c12b-d0f0-4066-9d89-2e9b20ca1ebb"
+        },
+        {
+            "id": "36a67a6d-fcf6-4f3b-a79e-8cfbf7180bda",
+            "name": "ABC Comm. Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "f4e56bad-98b4-453f-8987-ecc5080205ff",
+            "name": "Area 18 Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "24519691-f449-48a9-a910-6afef52abb59",
+            "name": "Area 25 Health centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "15e70e9b-4ebd-4b11-9486-a0aa2d2786df",
+            "name": "Bwaila Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "732b444a-a175-4c60-a38f-265aebb4f99a",
+            "name": "Chadza Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "053e3ebf-7273-42d6-b9aa-12a0aa9c3c17",
+            "name": "Chikowa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "c358899e-1b13-4be0-a992-dd2203276865",
+            "name": "Chileka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "b7766ac7-9b95-4eb7-98b5-544e735a3e44",
+            "name": "Chilobwe/Majiga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "142974bf-b381-4087-a450-91a4aa23c98d",
+            "name": "Chimbalanga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "4cc3598a-dbbe-4435-9b97-209577ed07b5",
+            "name": "Chitedze Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "f0fc35a8-026a-4c6b-9952-63875963ecc8",
+            "name": "Chiunjiza Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "f67ea257-c13d-4037-a661-3d105a33a63d",
+            "name": "Chiwamba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "739f8879-9c55-49cf-a8ef-96cedb3df2be",
+            "name": "Chiwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "54ef40d2-88ac-4122-890a-db54ae93ec1f",
+            "name": "Chiwoza Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "3c652c1d-03a3-482a-96f4-8fd7491aa049",
+            "name": "Daeyang Luke Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "4db2d237-d649-4fe2-8c84-3c4743a41c97",
+            "name": "Diamphwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "0ca371df-e96c-4ae5-9c98-1a421a69e804",
+            "name": "Dickson Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "e4b9e0f0-f4bb-4de1-ab7f-2c4439a4d8d1",
+            "name": "Dzenza Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "9f071d24-1d97-47a9-81e1-6853c7e8c973",
+            "name": "Kabudula Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "261c7a44-9283-4ff9-9db2-9d5d57fbea94",
+            "name": "Kamuzu Barracks Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "e00393a8-052c-4ceb-b534-faa934dd8bda",
+            "name": "Kamuzu Central Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "c771b55b-a7b5-4105-909d-31349ce6ce13",
+            "name": "Kang'oma Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "d2d3f161-6d90-45a8-ab2c-872ad7e009d6",
+            "name": "Katchale Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "de7f2ae5-0622-4a39-9b70-216bf44a9387",
+            "name": "Kawale Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "b3afe03e-90f5-4e37-90bd-489768250710",
+            "name": "Khongoni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "51bad58d-81bc-433b-9a3a-f178a5eb1e7e",
+            "name": "Lemwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "90d9cbab-0094-4fe1-b11c-134ca40acece",
+            "name": "Likuni Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "4bbe7227-db48-4c2f-884a-9fadf4b64e97",
+            "name": "Lumbadzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "eab5acbd-0bce-4e77-98b2-a3b56fb99521",
+            "name": "Malembo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "70996c29-56cf-4c93-a743-5abea2527d2c",
+            "name": "Malingunde Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "fab1df27-83e6-44fd-96c2-66f2afd84b91",
+            "name": "Maluwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "4050f766-7b8a-4d8b-90ed-7d126d364b2b",
+            "name": "Matapila Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "2e54f24c-55cb-4f39-b7c4-2bcba76f0673",
+            "name": "Mbabvi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "0dc1f100-decc-4dbb-932d-7b2064f03fe6",
+            "name": "Mbang'ombe 2 Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "e4722437-098d-4554-b5c2-037d973b936c",
+            "name": "Mbangombe Health Centre 1",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "e2c33efa-d5cf-412a-b951-de85bd5396af",
+            "name": "Mbwatalika Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "5e6eb4c2-114b-4911-a834-d6b3df500829",
+            "name": "MIale Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "c481cb69-615b-4de6-b007-8e4114aa05c3",
+            "name": "Ming'ong'o Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "313a9d04-ec38-4db7-aa19-cbca446544a0",
+            "name": "Mitundu Community Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "ce4f9b99-eb69-423e-8654-68fc00e2c9a4",
+            "name": "Mseche Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "d7f3fba0-4488-4fc0-b592-cb3925f6fccc",
+            "name": "Mtenthela Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "c8ba3795-ad35-4d12-820a-d394de3b7fa6",
+            "name": "Nambuma Health Centre",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "0ec16943-ead2-4440-bff1-d3470ffe8416",
+            "name": "Nathenje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "8c8b4b3e-32ab-4065-af2e-f24767991dcd",
+            "name": "Ndaula Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "2a51d181-b9cc-4242-a8b2-1e876449deb4",
+            "name": "Ngoni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "27b63c82-95b7-4b7b-b240-2cbbd3d1fb69",
+            "name": "Nkhoma Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "55fda6d2-55e5-4c93-a215-024a6a878353",
+            "name": "Nsalu Health centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "c8c24175-6793-40df-abb8-ffb69102aa42",
+            "name": "Nthondo Health centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "db2d63f6-98e3-4a74-be1e-c853fa2ec4e6",
+            "name": "St. Gabriel Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "7c9d5d8a-b2b5-4b63-8b0b-0582581ff37e",
+            "name": "Ukwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c3d0272a-0671-4127-a91d-b81f7c381427"
+        },
+        {
+            "id": "27c4ce06-704c-46cb-9589-834a750c7f16",
+            "name": "Chiosya Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "1e84cfc9-3658-4644-bc13-61f1031bfbfd",
+            "name": "Chipumi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "8e8c3a89-e21c-41a1-830b-95ce47e34acb",
+            "name": "Kaigwazanga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "fe4263c6-da23-4ba6-b97f-da4942fbf0d3",
+            "name": "Kapanga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "25d7fcd2-4423-472b-9213-0b7eb8d070c0",
+            "name": "Kochilira Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "98e08869-6c1b-49de-85cf-9b28e77a90b9",
+            "name": "Mchinji District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "28946e38-3cbc-420c-a187-2fb1f8ec3c23",
+            "name": "Mikundi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "59a79754-26a4-4862-9ebb-841f35fa320b",
+            "name": "Mkanda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "dde3014a-8800-40c4-924b-bda2cc36c798",
+            "name": "Nkhwazi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "19c387f0-9b45-4e69-ba42-ad6c388f97c3",
+            "name": "Our Lady of Mount Carmel Rural",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "9d86029e-069c-4e19-836a-82be08676ecd",
+            "name": "St. Joseph Community Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "a9554794-7c0b-4f4a-b276-4324457a793f",
+            "name": "St. Michael-Guillime",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "2a9d0e56-c1a3-44ee-ac2c-b7ab4a42197a",
+            "name": "Tembwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9622b5a4-9c15-44c6-a629-877720235a07"
+        },
+        {
+            "id": "369f9300-8dcb-4aa7-9254-021931a3f3aa",
+            "name": "Alinafe Community Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "07180efb-28d7-4295-a2a0-aa74ccaa4a65",
+            "name": "Benga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "36e1e689-b03a-46c9-9121-f644223a4142",
+            "name": "Bua Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "18940ed8-6afc-4189-b74f-45803e07b84f",
+            "name": "Chididi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "ed642498-ea7e-40e5-8f51-6393bb23dd70",
+            "name": "Dwambazi Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "a7539a6a-3c85-4107-b332-c36039e9ccaf",
+            "name": "Kapili Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "a6089387-2144-43f0-8c9b-718a62bf543d",
+            "name": "Kasitu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "9ba21999-6257-4c59-8b29-1243bc47ec1d",
+            "name": "Katimbira Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "12dba009-d9dc-4b41-8909-32cb93b3f941",
+            "name": "Liwaladzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "a4746989-471f-4d4d-bfe9-bb3110513335",
+            "name": "Malowa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "907bf2a7-a7ad-4842-a920-8414f14d85d4",
+            "name": "Mpamantha Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "45e2f87f-24cf-4af7-a8ac-dc39e30de98f",
+            "name": "Msenjere Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "48450036-cb89-42fa-ba7d-a720d8b5f246",
+            "name": "Mtosa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "a16cfbed-27de-4f54-b2cc-d9e41e7e3745",
+            "name": "Mwansambo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "e4db5e9e-0aec-4461-87a9-9f6901427052",
+            "name": "Ngala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "7ea68f32-89e3-401c-b127-918e50d3d97e",
+            "name": "Nkhotakota District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "865b7e07-d2d7-4cd0-849f-6bc203194ce6",
+            "name": "Nkhunga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "16258669-aec1-458d-9fa8-a8729173e9c4",
+            "name": "St. Annes Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "f9879218-5ca1-4aea-92b5-22027241327c"
+        },
+        {
+            "id": "40741635-466f-4170-b8b3-239b24b98efd",
+            "name": "Bilila Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "ca77a293-d9d1-4275-a5ca-a8eea3cee722",
+            "name": "Biliwiri Health Cnetre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "164d0103-d04e-46c2-986e-d4edf6db5ae9",
+            "name": "Bwanje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "046cebed-93bc-4fef-b1b5-c537ab087522",
+            "name": "Champiti Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "b1771f1c-11d2-4b09-bdcf-36c48805e69a",
+            "name": "Chigodi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "6a9db5ca-8824-4450-bcf4-efb0fc36b0fb",
+            "name": "Chikande Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "c1773858-9776-42c4-a29f-c29b97dbaa06",
+            "name": "Doviko Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "481c0012-4192-46e7-a108-d996a604ba1d",
+            "name": "Dzunje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "3cebe8bf-8baf-4f55-af1a-a77ca823bbcd",
+            "name": "Ganya Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "0fee72ad-090b-4d95-b10f-9409b5d2d7eb",
+            "name": "Gowa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "55226f36-59c4-476e-a785-3c9c0d9d5e61",
+            "name": "Kalimanjira Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "0df10f68-8fdc-4c58-9311-d8c22c348d4f",
+            "name": "Kaloga Maternity",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "866467b4-482a-465d-857e-b02e8bc4ce58",
+            "name": "Kandeu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "97290e56-19e3-48cd-9779-8e21aa941de3",
+            "name": "Kapeni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "468d4788-be50-4d3c-bb38-cbf178e25533",
+            "name": "Kasinje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "2b66c572-708f-4a40-bfa3-9f21bedf28e6",
+            "name": "Katsekera Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "c8fc9dd5-7df7-4837-a330-ea6b6e626455",
+            "name": "Lake View Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "e07805ec-a362-408a-a5cc-b9da8e6ba959",
+            "name": "Lizulu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "765e165c-42f5-4f60-9949-eb6cc357fe9f",
+            "name": "Manjawira Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "dec4773a-c21f-4f40-8b00-d7f5bc8a823b",
+            "name": "Matanda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "719cdfe6-b272-4865-8f3a-e7f70e0cc5ff",
+            "name": "Mlanda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "6aa6b680-016e-427c-acf8-a08e43460b4e",
+            "name": "Mlangeni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "61a76f0d-770b-48c2-a2dd-6ab7931683ec",
+            "name": "Mtonda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "bf3da6fe-58d3-4eea-82d3-ef1f1d8e2127",
+            "name": "Mzama Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "bf15f9f5-ba80-4e86-8611-753ae6eec9b1",
+            "name": "Nsipe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "df335ab2-4b38-4668-8923-96c2ec037adb",
+            "name": "Nsiyaludzu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "661dc64b-7347-403c-aa6a-102c3b66c299",
+            "name": "Ntcheu District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "1b67f1ff-1f47-464e-a318-90714ffd9f00",
+            "name": "Senzani Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "694761ef-9cc9-465c-819e-465c2a8da045",
+            "name": "Sharpe Valley Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "df2b795a-a8ba-4ba3-ac3b-3172a53060da",
+            "name": "Sr. Tereza Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "95e35ffb-7da8-4767-97c1-036bc62b43a8",
+            "name": "Tsangano Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "30eac42a-9dab-4b97-b736-c631a9bd633f"
+        },
+        {
+            "id": "0b3c9915-1ba9-4985-94c1-dbb297aaf0c4",
+            "name": "Chinguluwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "73e97c73-4361-4070-ba2e-3c33f92332dc",
+            "name": "Chinthembwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "64f0bb73-0fd5-451c-ab6c-b913e9f882f1",
+            "name": "Kamsonga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "37aa4677-1a5f-491d-ad94-9face0730b92",
+            "name": "Kangolwa Health centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "1facb559-325b-4acd-af11-9636c1b99574",
+            "name": "Khuwi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "9e4601a8-c2da-44de-8818-5123f59c3298",
+            "name": "Malambo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "f510da6e-1b14-4e61-ab04-1dfe78124660",
+            "name": "Malomo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "191a6ab8-dc6c-449d-a3bc-52a3afdb70bc",
+            "name": "Mkhuzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "f3a88f72-6319-4f04-a213-f858bb35041c",
+            "name": "Mndinda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "c5521b14-a3d6-4a0b-aa48-2a77d804a170",
+            "name": "Mzandu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "bf0237f0-bb12-48c1-bd20-db6ac48e1255",
+            "name": "Ntchisi District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "8643f523-8655-4c30-ba38-9874d892870e",
+            "name": "Nthondo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "77607022-024a-4ec4-a166-21aaf1d20cb2"
+        },
+        {
+            "id": "a30e1755-50bb-40cd-8697-4b78b31a7aaf",
+            "name": "Baptist Medical Clinic",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "9cb66d98-88f3-46e7-aae9-40b21f70fe8b",
+            "name": "Chagunda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "facbe7b2-710a-4ec2-b4dd-f9c606d71a4c",
+            "name": "Chinguluwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "3f48e409-60cb-432b-83ee-5ab672f47b17",
+            "name": "Chipoka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "095a3d83-0ad1-4fc7-9208-a791ed02187c",
+            "name": "Chitala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "cc7b4210-d4f0-4302-9cd9-d71737a1306d",
+            "name": "Kaphatenga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "0e4745ba-9b20-4aa3-853f-a4a222d96baf",
+            "name": "Khombedza Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "8c7f31b6-9080-4709-96e5-21ad942d5603",
+            "name": "Lifuwu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "f9b962d6-8d5e-487f-abc0-e9a23c41a7f5",
+            "name": "MAFCO",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "e486fc71-d806-4d6c-800a-6650f9ce90f7",
+            "name": "Maganga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "0869b9dd-b630-403a-a7d6-e7986f422c54",
+            "name": "Makioni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "0e27c1a1-1985-476a-b996-25be10800d18",
+            "name": "Mchoka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "ba69a711-e72a-444c-b3a4-a9a3bb216ee6",
+            "name": "Ngodzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "60e074aa-0c40-468a-81f5-4e5e1d1b7695",
+            "name": "Parachute Battalion",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "1ba5087d-7978-4e6e-8c08-12fb34db1453",
+            "name": "Salima District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "ee3f61e2-7358-4c77-ba1b-619fb22b0d49",
+            "name": "Thavite Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "4eed6b69-f08d-4c19-9710-9d071aa6c7d8"
+        },
+        {
+            "id": "5bc42b0b-28fa-45e2-8102-3ed1f0c7d9cf",
+            "name": "Chambo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4"
+        },
+        {
+            "id": "b211ee22-3526-4b58-affb-b8eea9c27c93",
+            "name": "District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4"
+        },
+        {
+            "id": "408a001f-52b9-42ae-a443-f14d641fc21b",
+            "name": "Ifumbo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4"
+        },
+        {
+            "id": "0cddc7b9-5c0a-4c77-90b8-23cb5f4065c4",
+            "name": "Kameme Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4"
+        },
+        {
+            "id": "0aa33262-035c-4f08-8763-0d04ee4ced82",
+            "name": "Kapenda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4"
+        },
+        {
+            "id": "d0e22af1-25d4-495b-a83b-a65d66c24c2f",
+            "name": "Kaseye Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4"
+        },
+        {
+            "id": "d8439550-57e0-432c-b7cc-e514f2e7eca5",
+            "name": "Misuku Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4"
+        },
+        {
+            "id": "8c85fee5-ff79-44f7-aeb3-7e5770fe647a",
+            "name": "Nthalire Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4"
+        },
+        {
+            "id": "4ea9c59b-b909-4b4c-88ee-e771f74af8e4",
+            "name": "Wenya Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "8a8bcc25-b51b-41ee-ae46-eb0eec057ad4"
+        },
+        {
+            "id": "7628241c-877b-4d75-99fe-1d84d1a300c7",
+            "name": "Atupele Community Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "5d63b6c3-0b5f-4cec-95f4-c22459455769",
+            "name": "Chilumba Barracks",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "dcee2a2b-7f9a-467a-b53b-839f76b204ce",
+            "name": "Chilumba Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "169112a9-0e60-4231-90e2-635c238d2a06",
+            "name": "District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "15753a1a-ce70-4a3d-b6f8-9c755e12c99c",
+            "name": "Fulirwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "f85035b0-2c05-4d2c-99da-f4798f349484",
+            "name": "Iponga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "a7f62bb0-4da4-44d7-8a2e-c26bbd7f3783",
+            "name": "Kaporo Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "593281a3-974b-4f5e-837e-6c89bcddd2e8",
+            "name": "Kasoba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "85dcda6b-ab14-4988-9f40-ca9840f27bbd",
+            "name": "Lupembe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "76f2af4e-e21b-445c-afab-5b0478af86e2",
+            "name": "Lwezga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "4cb68973-7b6a-41ad-9eee-08529057ad52",
+            "name": "Mlare Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "56437070-f74c-4436-b97f-7cca595b212d",
+            "name": "Mpata Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "50e96d22-e08c-4174-860d-c8092596d33a",
+            "name": "Ngana Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "2ebc3f9e-b371-4ae9-99d7-8b975d25ac21",
+            "name": "Nyungwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "78904d14-b14a-470a-a4cc-8cd4575d730d",
+            "name": "Sangiro Health centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "3f8efa8f-0ea9-4693-9512-ba21a20b2014",
+            "name": "St. Anne's Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "059d0197-5e7f-47d0-be01-211b36a609ec",
+            "name": "Wiliro Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7b99eec0-a4de-48e5-8fbd-4b01637b3d9a"
+        },
+        {
+            "id": "999c77f7-de63-4607-97fa-5621ea676bb9",
+            "name": "St. Mary's - Chizumulu Health C",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "a075f45f-69cb-4dcd-bf90-433ef1363f36"
+        },
+        {
+            "id": "33041385-a240-4328-8d90-22acae61755b",
+            "name": "St. Peters",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "a075f45f-69cb-4dcd-bf90-433ef1363f36"
+        },
+        {
+            "id": "40bedb2e-fb39-4779-8366-29b51b3b2b9d",
+            "name": "Bwengu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "e65bf6ff-a14b-43ad-8e36-49a090ee955a",
+            "name": "Choma Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "c6467e8e-dd9e-4616-9a42-d3d4ae743cd0",
+            "name": "Ekwendeni Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "b831c23b-7a10-4322-b5af-6a3d4825d3ab",
+            "name": "Emsizini Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "ad5f8756-9a1e-4e50-938a-934334f7d184",
+            "name": "Engucwini Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "4a2dc908-256d-4fac-9fc8-79a137bdc5da",
+            "name": "Enukweni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "11b8bc34-30ff-4523-8880-0eb5bcd02fa1",
+            "name": "Kabwafu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "111913e0-dc66-4a97-b092-3d0b2d74dc62",
+            "name": "Kamwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "e95f5bb3-ab11-4ac2-9956-8e69776a1b8f",
+            "name": "Kaweche Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "88b46505-c630-44af-923e-408e2baea51e",
+            "name": "Luvwere Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "3e803cfd-15f2-46c2-8251-3f4e7e78ae6a",
+            "name": "Luzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "99ce4ff2-c993-4e32-b37c-60cfadb48a24",
+            "name": "Malidade Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "0722c5ba-8846-4b5e-881c-10f7d360880c",
+            "name": "Manolo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "f8e1ecb0-ea25-4a1f-bdb6-96802e8d3090",
+            "name": "Matuli Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "e2422b92-956e-4661-890c-0e2cf6538487",
+            "name": "Mpherembe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "a81d6dd8-e361-468b-8a22-11516261b331",
+            "name": "Mtende Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "7d590cab-f859-4340-bbba-b018c5a41e9e",
+            "name": "Mtwalo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "a0aeb8d5-49fb-4ec3-b18e-c25ecddb8bc4",
+            "name": "Mzuzu Cental Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "a4d56f5c-51af-4840-a6ed-4f8d42fd089c",
+            "name": "Mzuzu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "92d60732-b4b6-40ea-a8cf-77dfb88eb797",
+            "name": "Njuyu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "0edb9a00-7caf-449a-a421-e99ec0c30a7c",
+            "name": "Nkhorongo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "9980fd11-6559-48fb-bb57-b2d2afe7b6ab",
+            "name": "Nkhuyukuyu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "1d4b1232-6642-434a-8cce-8f6defeecd0c",
+            "name": "St. Johns Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "878b791e-7174-4c04-8596-4dd745ab144e",
+            "name": "Thunduwike Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "29f77153-eac6-455b-b217-c71e1d051418"
+        },
+        {
+            "id": "b5158f52-9595-4cd2-8ef3-d3968ee0a27e",
+            "name": "Bulala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "1d2be133-d31b-4de0-996f-20f279d32416",
+            "name": "Chikangawa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "dc6900cf-57ce-4490-8305-c9c85237b09a",
+            "name": "Edingeni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "cceae9e5-c994-42c6-86c3-8a72b61f3ed5",
+            "name": "Embangweni Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "7251b2f0-99d8-40f8-bf48-3ed4277029aa",
+            "name": "Emfeni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "f296f0e5-30e0-4ab5-8d7d-3eb6c66a4a84",
+            "name": "Endindeni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "9b3df082-703b-40c5-8945-ef8ba7fd083d",
+            "name": "Euthini Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "bd60f84a-802e-482a-bd45-bbc08c0f3a99",
+            "name": "Hoho Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "90a83167-2550-47f8-8b04-6dcff2fcf435",
+            "name": "Jenda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "09c50f1e-9800-442c-83b8-bc6aad1a3fe5",
+            "name": "Kafukule Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "291e99bd-8cd4-4a28-9d0b-f97aef85c05c",
+            "name": "Kalikumbi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "fa7b4d40-7e30-4644-b7b9-5ab09134a61e",
+            "name": "Kamteteka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "b6f73856-72b6-4c76-8efd-31415d465c86",
+            "name": "Katete Community Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "f35ece1e-80c2-43f1-8be4-eb0db6770dda",
+            "name": "Khosolo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "d29965d5-6e21-410d-8722-41e264ee5db3",
+            "name": "Lunjika Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "0cbb22b8-f094-4a9b-959c-d924ad05e4fa",
+            "name": "Luwawa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "a232552d-0dc2-4f63-88e5-a098ea9fca43",
+            "name": "Luwelezi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "19bc8858-5f81-44f3-8efd-bad3d24b2305",
+            "name": "Mabiri Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "d073850f-3cd6-4e50-9e09-e9a753c17c4c",
+            "name": "Madede Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "7cec2704-b0dd-4475-9139-730c56d60a50",
+            "name": "Manyamula Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "ee4858ef-a2d6-4aac-92b6-ca22eca8e150",
+            "name": "Mbalachanda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "e12e00ad-d25f-4d7e-b2a8-7d60b1d4dbd1",
+            "name": "Mhalaunda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "e2693261-724b-44d5-94af-a564918f04c0",
+            "name": "Mkoma Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "b61b0e49-a7c3-49a8-886a-e58dbb01de58",
+            "name": "Msese Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "c2916db4-5d6a-4d2e-932f-78b50c7ba893",
+            "name": "Mzalangwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "e6ff18ae-e451-4d8f-96a2-d28a5a0680bf",
+            "name": "Mzambazi Community Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "85149061-393a-4150-a099-f3f23604a282",
+            "name": "Mzimba District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "c5746704-94a8-45be-b9b5-3a5ac7b2e9eb"
+        },
+        {
+            "id": "f1b54400-febc-4124-a708-ae46f11b59cf",
+            "name": "Bay District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "bea28beb-68a4-4ed3-abf6-95e64c679240",
+            "name": "Bula Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "2d831c62-9a27-4636-bb23-07e58a3660bc",
+            "name": "Chesamu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "7cd7b5c0-e9c0-4331-86ef-29f9f2fabfa0",
+            "name": "Chikwina Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "f4dd3e7d-1a35-4f89-8d5d-b6b054aed5ec",
+            "name": "Chilambwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "aceb55e3-016a-40fd-8683-d5a76b3502a9",
+            "name": "Chintcheche Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "825386fe-01a2-424f-9024-e17a9b7cf849",
+            "name": "Chisala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "a81cfa56-5d39-4f36-9b94-461c4ffc98ef",
+            "name": "Chitheka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "a0bcc6ce-8336-457b-8933-0d1a8c6d0d70",
+            "name": "Kachere Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "27c67933-dad6-4e16-a484-f287fdbdde25",
+            "name": "Kande Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "c85b4287-d34f-4aba-bc03-80be10a7e2b3",
+            "name": "Liuzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "fbbc85a0-1191-4d01-b7af-9a82da0cef6c",
+            "name": "Lwazi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "955e08a8-a131-4d18-98f8-1b7b3cca1841",
+            "name": "Maula Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "ce5ccfae-7a34-4c31-a5dd-9b4ecc119011",
+            "name": "Mpamba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "9830ae95-7880-45fc-8f38-9faa2fc937cf",
+            "name": "Mzenga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "16bd8dbc-a69d-4455-af0f-363bb1f8d21d",
+            "name": "Nthungwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "9033ac31-c38e-4a6d-b912-ca3ee5062bf2",
+            "name": "Usisya Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "e3b4e7cc-8603-4691-9d17-92397b64d6c8"
+        },
+        {
+            "id": "faa489f2-c33a-4b8e-80c4-77b6613d0ee1",
+            "name": "Bolero Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "39b252d7-d07c-4686-a53d-99c887c78a77",
+            "name": "Chisimuka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "9aadae49-a39c-48b9-b2d0-76ab6861fb9d",
+            "name": "Chitimba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "3a34ab24-0b09-43ae-aa16-2f786695bc05",
+            "name": "District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "e680761c-fc3c-48ec-b6c8-1b0716fc93c7",
+            "name": "Jalawe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "70b62246-6a18-4439-8c50-12c8cb52109c",
+            "name": "Katowo Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "8f0f7368-712f-4293-92b2-1dbaea0b2e74",
+            "name": "Livingstonia Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "1d831d54-f667-4ce2-b278-8d37025b7c4a",
+            "name": "Lura Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "08e3fba0-f03a-49a8-9535-8112637201f0",
+            "name": "Luwuchi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "74ae874c-121c-4b9b-8e33-dae2147695b4",
+            "name": "Mhuju Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "f7380773-b02d-4c60-ba60-9dffc91deae6",
+            "name": "Mlowe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "c7b7719e-7d4b-4e2a-abed-7d683e5cff05",
+            "name": "Mphompha Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "fe3a566a-31ee-4cd9-84c5-17d14d139d8f",
+            "name": "Mwazisi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "72f0f459-ae31-44d3-9470-b0a1f301e2a0",
+            "name": "Mzokoto Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "ef3f0745-9722-4f12-b484-f13672d94b3d",
+            "name": "Nthenje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "314da7a2-ea88-4031-9de3-02bc38682859",
+            "name": "St. Patricks Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "3e3cf494-3060-41f3-bea3-0b4ec070c81a"
+        },
+        {
+            "id": "53429104-8463-41bf-9258-332eaf25ac29",
+            "name": "Balaka District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "597f6718-4022-49d9-90e9-497e29c6a5bc",
+            "name": "Chiendausiku Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "34da64ad-fad8-4570-afec-8ff790a61524",
+            "name": "Comfort Clinic",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "b7cc2f49-ab16-42ba-b7b4-b424299736d1",
+            "name": "Kalembo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "714182e9-5bf6-4457-97b2-efb90fbaaa2f",
+            "name": "Kankao Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "ae5090fd-4e7f-4da6-a0ac-37dd48342411",
+            "name": "Kwitanda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "37e710d6-ec05-40ac-ba28-2f171c36264f",
+            "name": "Mbera Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "143ebf96-0ac3-4a34-92ea-afb64018cc49",
+            "name": "Namanolo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "26e53f62-7b64-4608-8fcd-197f80cd6f43",
+            "name": "Namdumbo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "db8645aa-3584-4f07-8afc-526e238d76f2",
+            "name": "Phalula Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "17d6cad7-8ad1-4f68-a8c7-1dacbfcf42a1",
+            "name": "Phimbi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "629b7ab8-42a7-4351-9568-71a9386923e4",
+            "name": "Ulongwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "f007b989-8fb4-48a6-8486-e8c3b4708b0d",
+            "name": "Utale 1 Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "6517921f-a3ea-47ca-acb9-e25072d9ba51",
+            "name": "Utale 2 Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "153df368-64bd-41b5-af7b-b7c6af6496c0"
+        },
+        {
+            "id": "58ef463c-6176-4033-8e68-fc79ab63b3cb",
+            "name": "Bangwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "820be0aa-9944-453d-bc2a-8a44e29ab508",
+            "name": "Blantyre Adventist Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "d3209ff2-ca35-464f-888a-dce6b0034b42",
+            "name": "Chabvala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "0fc71ca0-d0ac-447e-9df4-b2f4c4841aae",
+            "name": "Chikowa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "aba6f5d0-2224-4fcb-a103-66289c2e6d7d",
+            "name": "Chileka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "a3d11532-413b-44b5-86a1-0ec4167a0928",
+            "name": "Chileka SDA Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "9aea16ce-fc13-4826-9bf8-d98468e38070",
+            "name": "Chilomoni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "a6ed57ff-affb-459b-a728-4000e6398d3f",
+            "name": "Chimembe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "c827cb9e-3e0d-484b-9e6f-097762eefecf",
+            "name": "Dziwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "4a70579c-7527-4200-88ea-01a2a23da168",
+            "name": "Kadidi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "dcd338c3-7138-49ad-81b9-923bc8b894c2",
+            "name": "Kapeni Dream Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "87a162e3-e61a-40d6-87f7-806f4962fed7",
+            "name": "Limbe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "086eb677-2f30-4254-a23a-17861aa019fc",
+            "name": "Lirangwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "00862f2a-0add-4538-ac3b-42c7cd4df28d",
+            "name": "Lundu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "1c77f6ed-4bb6-4c49-b27c-7a833b369fec",
+            "name": "Madziabango Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "62ad6679-fd7e-4856-9f2e-c6789a29a029",
+            "name": "Makata Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "493f82e5-c0b3-488f-9e7f-463e32a336c4",
+            "name": "Makhetha Clinic",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "80a091df-0472-45c5-9ef4-f7995bd8dfbe",
+            "name": "Malabada Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "6cc48cf7-b267-4802-8b4d-92c7e4a1b2b7",
+            "name": "Mdeka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "ef5fa1c7-9584-41fa-8d9b-a191b021bf32",
+            "name": "Mlambe Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "2d2f659c-fc92-48f9-83ce-e306426f973a",
+            "name": "Mpemba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "ba040a7e-0cab-4faf-a1d0-3f2fe0d4d3af",
+            "name": "Namikoko Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "1db57119-8784-4910-9ecf-c50190acf4a5",
+            "name": "Ndirande Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "af865a05-49fb-485c-90c2-13b8fa06e58b",
+            "name": "Pensulo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "94e9c93f-b839-4fab-a4cb-496f825b5bfc",
+            "name": "Queen Elizabeth Central Hospit",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "8d0c8d87-945d-4ebc-9638-d1ce367af2b3",
+            "name": "Soche Maternity",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "6a96e9b1-d159-4302-9c5a-81ed51b9bf4a",
+            "name": "South Lunzu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "2614359d-a763-435e-8902-fd60b48e36de",
+            "name": "St Vincent Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "5dbce68a-f718-4d7c-9294-5c19e9a40ab4",
+            "name": "Zingwangwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "d4c811da-5699-48d2-8d32-dd9be0b07455"
+        },
+        {
+            "id": "eb1d9fa4-82e6-4878-8521-788f54689e6d",
+            "name": "Beleu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "5bc9b4ff-bd35-42c1-8f4d-ecf64e395499",
+            "name": "Chang'ambika Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "4eef87da-0b82-49db-8120-8c42f5295918",
+            "name": "Chapananga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "117fea52-2320-43bf-8893-181c56bde496",
+            "name": "Chapwaila Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "9f29e09c-b89b-4e37-9ba5-4edc71012876",
+            "name": "Chikwawa District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "7efdd31e-b408-45f0-ada9-55649ba4e7dc",
+            "name": "Chithumba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "4a69eb80-7ef0-49d0-b9aa-d9bbc3972fca",
+            "name": "Dolo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "3bcd7697-1497-4729-b0f5-f0599590f873",
+            "name": "Gaga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "b3fa94bc-92dc-4bdd-83c1-fe4539a6eb7a",
+            "name": "Kakoma Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "a463e0f5-4472-4adb-b52c-b947b53c7834",
+            "name": "Makhwira Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "f9067356-afca-40e5-a794-43b972f88f03",
+            "name": "Maperera Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "a05cba61-463d-4794-8af6-f7e47aacf69f",
+            "name": "Mfera Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "3b2576b7-a3b9-4e6f-b197-f9cd35ed3074",
+            "name": "Misomali Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "b0aded5f-d4c2-4bf9-bbb6-f8a45e4fd080",
+            "name": "Ndakwera Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "383e8c83-0251-4beb-8342-5f5e0f748491",
+            "name": "Ngabu Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "4c608c2b-4eff-4e68-beb7-67f4ab83f657",
+            "name": "Ngabu SDA Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "9e48a17f-fbe6-4c53-8485-5538e0e5804b",
+            "name": "Nkumaniza Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "618d411f-bf93-4f15-9de9-290fea49c82f",
+            "name": "St Montfort Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "5c36a053-215e-4afe-b203-98153bb9f0f7"
+        },
+        {
+            "id": "c8b03065-a3c8-4c25-a0b7-333fbde7ef81",
+            "name": "Chiradzulu District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "c1db3ad8-139e-4758-aad2-8113c45dfdb5",
+            "name": "Chitera Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "50fb0218-8b4d-4bc9-a80d-ce1df1ab35bb",
+            "name": "Mauwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "a47f0bb5-ff4b-4d33-9792-8ed6b8467ad3",
+            "name": "Mbulumbuzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "e4aff359-bb26-42a2-8805-b188ab990727",
+            "name": "Milepa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "56236857-e060-48ea-8cca-a1ad8ed544ed",
+            "name": "Namadzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "1d84b5da-b8ff-444d-bafd-69f16329f441",
+            "name": "Namitambo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "7794c8a3-be28-44cc-a931-282d448fab55",
+            "name": "Ndunde Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "8301d4a2-38c5-434b-9923-20bb37a5bc72",
+            "name": "Nkalo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "581e526b-477c-4e70-b1d6-52bbc7a011c5",
+            "name": "PIM Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "7e368004-7cc4-411a-8b3e-7c6da2dfc774",
+            "name": "St. Joseph Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "dd549c9d-77c9-4b88-b83c-1bb3032bb991",
+            "name": "Thumbwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "9a5864d4-ee8f-4e92-9a3b-459369d1ada8"
+        },
+        {
+            "id": "a8b756fc-d989-449f-99fa-10340f3966ab",
+            "name": "Chikweo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "dfa3691b-a2f9-4be6-8fc7-0fbdfef2b23a",
+            "name": "Gawanani Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "cbb7614d-1f20-4b61-a824-cea1288167bb",
+            "name": "Machinga District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "8dd359a3-d749-4240-8ec6-64e30c7d1853",
+            "name": "Machinga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "4d95f150-5797-449f-b6b5-8bd626295fba",
+            "name": "Mangamba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "e6ddd84a-5a93-4323-8778-5ea12528f7c0",
+            "name": "Mkwepere Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "06f11510-0705-41c4-b7a8-d9b119b8e644",
+            "name": "Mpiri Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "6f57d72a-e914-4dfa-a62b-b72c0c000138",
+            "name": "Mposa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "744df3bb-60e7-4214-8eb8-631d5c1a35dc",
+            "name": "Namandanje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "89e3cf74-3058-45bd-a8d9-8e0fab0f99d6",
+            "name": "Namanja Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "7ed9144c-ebf0-4227-8943-f356c6870df0",
+            "name": "Nayinunje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "6d8e3659-64f2-40ad-bd12-6ce1ebf8a4d5",
+            "name": "Nayuchi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "0e0958a9-e89b-49e9-97b8-0fd3c6eb938d",
+            "name": "Ngokwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "69da0dd2-752b-45d5-83af-bd116c682432",
+            "name": "Nsanama Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "1c7af2bf-121a-4467-afa0-99eb1880a241",
+            "name": "Ntaja Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "27716c9d-bc37-4d6e-9f0b-8730a6956088",
+            "name": "Nthorowa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "20b4b759-02da-4e5e-9c32-b25a962b1919",
+            "name": "Nyambi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "f32fbcf0-3b79-4476-865c-0d2643d84ae4"
+        },
+        {
+            "id": "fdb7c5aa-0569-4a1b-b43f-35dd0e801a74",
+            "name": "Chikole Dispensary",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "5372f93a-95c9-4275-9a7a-9ffadbab4ad6",
+            "name": "Chilipa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "87e815a3-8347-4469-ab6d-3dbef77643a7",
+            "name": "Chilonga Health care",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "3b086a5b-0bbf-4f5b-983e-9cf464f2c526",
+            "name": "Jalasi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "12b70d7b-fb28-4903-b522-ac4a6dc3e76b",
+            "name": "Kadango Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "4b079af5-72bb-4c95-bc0d-a75c677827a1",
+            "name": "Katema Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "17064a33-6c10-4400-a331-198f980574fd",
+            "name": "Katuli Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "14e3cadb-3140-4426-a06c-862f085ebd08",
+            "name": "Koche Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "cff495d5-89dc-47cd-8153-c5fa2d1db264",
+            "name": "Lugola Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "bfa07b36-932f-4db2-92cc-207fd9dd340f",
+            "name": "Lulanga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "5d2b94e9-65cd-41ea-a2ab-01616edd38f3",
+            "name": "Lungwena Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "b0f8179e-f607-4ba0-a428-945b00133833",
+            "name": "Luwalika Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "f21bed61-c2ac-47b2-834c-406cffaf2cd7",
+            "name": "Makanjira Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "884e05cb-50d7-4e28-8d33-490b89da9a55",
+            "name": "Malembo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "8ac6b85c-8953-4c28-994b-4382942d61a0",
+            "name": "Malukula Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "8bb767c9-858b-43c3-a190-982e68d18cd4",
+            "name": "Mangochi District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "e61f1072-3e45-4752-b4c8-98dc92b85450",
+            "name": "Mase Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "c45991d4-e338-47ba-8690-ca1cc924c7c4",
+            "name": "Mkumba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "d13f266d-a6b4-4e7d-a16b-3a0f64fbfe02",
+            "name": "Monkeybay Community Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "cd4cefb5-11d4-45a5-bf9a-14aca846f96b",
+            "name": "Mpondasi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "dfd266a7-be8a-4005-955e-e1fe575a9e97",
+            "name": "Mtimabi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "828d8b98-bc10-4bb1-98ba-5ab48f81756f",
+            "name": "Mulibwanji Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "7a27eb6f-0825-4548-aa42-5006891a0bee",
+            "name": "Namalaka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "b3e09a03-926d-4bdf-ba6e-2f597dd09d11",
+            "name": "Namwera Health Centre",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "fdcf2845-0b23-437d-9eae-5fbc6b171304",
+            "name": "Nangalamu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "f3c1ea6c-c07b-450e-80ea-bfedbf4e9a70",
+            "name": "Nankhwali Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "02c7b015-ecbf-4abe-b3e8-d787a6d5ed6a",
+            "name": "Nankumba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "c0ac5379-4f0a-4289-9b21-ead24903175b",
+            "name": "Nkope Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "9e38ec93-db3d-4a6d-9fd4-504238bf3abd",
+            "name": "Phirilongwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "14930f73-8db1-4db9-9330-17c508030cea",
+            "name": "Sister Martha Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "ed820ce2-e5f7-4617-a6bd-2ce9f2590fac",
+            "name": "St. Martins Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "ea15f1a3-e771-4a96-a4c8-cb8900cf7fda"
+        },
+        {
+            "id": "d81d4ad2-b1d6-4d18-9c32-5fb21e947762",
+            "name": "Bondo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "5821ce82-6a91-4502-afb1-15944a72ca69",
+            "name": "Chambe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "13dd0cab-99bd-49ee-87a5-aa1f9f0e8325",
+            "name": "Chinyama Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "f67163bd-a3df-43ad-8dfa-e7061dcab859",
+            "name": "Chisitu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "87f29b3b-1b8f-43b3-b1d0-081c33688362",
+            "name": "Chonde Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "4f75e888-a8d4-4cab-9472-a1f96a2d75d6",
+            "name": "Dzenje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "d7986424-3340-42c0-9a3b-4ddc46b6d7f7",
+            "name": "Kambenje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "32b0996c-fec1-411b-b55e-6008a43540eb",
+            "name": "Lujeri Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "d3943abb-cc63-4e42-9c3b-ead7522dc1f9",
+            "name": "Mbiza Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "a9d5224f-9815-4c1c-9067-f645a5d6897c",
+            "name": "Milonde Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "ef72a589-1adc-4821-a1db-5fd36bc517c5",
+            "name": "Mkomaula Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "c3a94e00-091a-49c2-a591-f3ef299c1a81",
+            "name": "Mpala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "5d9f166b-58cd-4bf7-9173-b9adf5c58f71",
+            "name": "Mulanje District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "be4dea7b-17a9-4885-b12f-67747571d370",
+            "name": "Mulanje Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "35646cc8-f882-4567-b8d8-83e8853ae07d",
+            "name": "Mulomba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "718cd2ed-d163-488b-bc5a-1e661c69ba68",
+            "name": "Muloza Heath Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "beff935b-2b3a-40ea-9ca2-fb98ef887f76",
+            "name": "Namasalima Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "141f6dc6-a044-417e-b3dc-e8a2ee81584b",
+            "name": "Namphungo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "5b35f8e5-4553-4102-891d-bc1cc565ce9a",
+            "name": "Namulenga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "326e7dae-65f7-4f17-b577-48c492c34b63",
+            "name": "Naphimba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "5930d967-91de-4834-a44f-9a1e78d2cc16",
+            "name": "Thembe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "f1beeded-2b10-415d-ab22-9775cdb7c50b",
+            "name": "Thuchila Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "bb32151f-1904-4e6d-93e8-32a44f2216c6"
+        },
+        {
+            "id": "211272df-5291-4e13-afa6-eeb8e491b1fc",
+            "name": "Kunenekude Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "01a20a25-2821-406e-90e5-1c8a2b8665b5"
+        },
+        {
+            "id": "37a18183-6fc1-4b7e-97ab-f2316ab4bba7",
+            "name": "Mwanza District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "01a20a25-2821-406e-90e5-1c8a2b8665b5"
+        },
+        {
+            "id": "248e440b-09c1-4e52-8ba4-055bbc13be69",
+            "name": "Thambani Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "01a20a25-2821-406e-90e5-1c8a2b8665b5"
+        },
+        {
+            "id": "e8acb32f-dec6-41ed-8cba-02833ea79cd5",
+            "name": "Tulonkhondo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "01a20a25-2821-406e-90e5-1c8a2b8665b5"
+        },
+        {
+            "id": "b29b7971-020a-4885-924a-a7ab0d7158ce",
+            "name": "Chifunga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "af72d1e2-cb7c-4c58-8622-00c11acd8b87",
+            "name": "Ligowe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "4b303521-23db-4dcc-9845-e46a6e92ec63",
+            "name": "Lisungwi Community Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "69103df4-2461-49a8-9e0a-bf779ee12e92",
+            "name": "Luwani Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "2d38b920-3e43-4e33-9401-a646134ca99a",
+            "name": "Magaleta Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "d15082cd-3c1e-40cd-8625-32dc5e5909c9",
+            "name": "Matandani Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "a81a2dea-354b-436a-9d16-05ac5bf0eea5",
+            "name": "Matope Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "9401a65b-6d29-4e3c-809a-695964e56637",
+            "name": "Neno District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "aa40a590-c98d-47bc-967f-3a9740ff6eba",
+            "name": "Neno Parish Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "7faea938-1947-4243-97b2-88b51029eca8",
+            "name": "Nsambe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "60a7f843-f13c-4322-8ff8-3c58183cfafb"
+        },
+        {
+            "id": "9d046b33-94d7-4740-b20a-2b19d9b7a2ab",
+            "name": "Chididi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "8c17a665-d6dc-4b79-9cae-9fc9253037e8",
+            "name": "Kalemba Community Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "1c9ef594-57f8-4ddd-a385-5946d441c356",
+            "name": "Lulwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "ac762e1f-c8e9-47bc-9f98-5ac58c2761d2",
+            "name": "Masenjere Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "c288f6ce-b0bd-4653-9d0c-b9dd38e7aef1",
+            "name": "Mbenje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "09b3a507-7280-4506-9f3a-1944c4e9412e",
+            "name": "Ndamera Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "f52f6fba-ec68-4986-a353-ed68a3e0458c",
+            "name": "Nsanje District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "964b493d-3f68-4c39-aafe-d62836c54aad",
+            "name": "Nyamithuthu Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "9c8f0012-022b-4bd5-b0f6-44ddf4a1c5c8",
+            "name": "Phokera Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "7bf07c81-0360-4b25-9397-f0a38dc0e65e",
+            "name": "Sankhulani Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "ebb20cce-e630-4155-b193-32cafd5a65b6",
+            "name": "Sorgin Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "6ae20806-b2e5-4dfe-b749-3f93fed14688",
+            "name": "Tengani Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "eb450c58-2a16-43c5-8cb4-96906a1e9859",
+            "name": "Trinity Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f7253f5-71ce-4492-9efb-2795f25dde2c"
+        },
+        {
+            "id": "16ee2e35-99f3-4e85-93d6-d3525e2b01f3",
+            "name": "Chiringa CHAM Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "f7cc02df-cec4-4497-ab11-5854d977c89c",
+            "name": "Chiringa Maternity",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "0a50a49e-fb56-4bef-a7e2-871caf9454e2",
+            "name": "Chitekesa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "fd3e5682-d292-4eab-b6ad-2c0d8cfb0fb7",
+            "name": "Holy Family Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "961e82cf-5718-4f2a-b1ef-7c50ecb840eb",
+            "name": "Kalinde Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "7b71ef22-b298-4f80-9cf9-02eb45b84041",
+            "name": "Migowi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "ef18b613-789d-4f8d-b178-948a38515170",
+            "name": "Mkhwayi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "e2d447eb-3099-4052-9959-8a559c1e8c41",
+            "name": "Mpasa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "1432a840-2ac2-4448-b9f5-f4aa38a44de8",
+            "name": "Mwanga Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "97d4236a-b94c-467e-82cc-00604a06e417",
+            "name": "Nambazo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "d45957f5-105b-4127-9f6c-9afa90854675",
+            "name": "Nazombe Health Centre (GoGo)",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "db259d3d-8308-4e3f-a8df-b606a4c84208",
+            "name": "Nkhulambe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "fc0dddf4-2add-4a8c-ad11-1d4f14f007f3",
+            "name": "Phalombe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "0201345b-0a7b-4133-bab1-aca72b1c67f6",
+            "name": "Sukasanje Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "4b52a607-7b54-4996-b506-33adffdf49b8"
+        },
+        {
+            "id": "31c5973a-8e37-4664-af06-afff910a8ba5",
+            "name": "Bvumbwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "757d0364-dc1e-47dd-8ea9-60e92f489550",
+            "name": "Bvumbwe Makungwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "48fdaab0-b07e-4e7f-828d-45ae6dd10281",
+            "name": "Chimaliro Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "ed4caaa7-6dbb-4104-a823-8f44ee92dbed",
+            "name": "Chimvu",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "75c82c17-015a-444a-a88d-8d9b4c5e201d",
+            "name": "Chingadzi Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "c0cbd1c0-981d-48fe-b9c1-e7cc3edb19a6",
+            "name": "Chipho Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "a778f806-ef37-4f80-a6e6-20969141a173",
+            "name": "Chisoka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "bdabdbf4-88ee-433c-b90b-88193d189767",
+            "name": "Chithebe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "faa6f2ed-8279-4bfc-af1d-b0f09245ee35",
+            "name": "Dzimbiri Health Centre (DiDi)",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "674cc60e-3580-4614-a7a3-94ef5064c2f6",
+            "name": "GOMBE HEALTH FACILITY",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "03bd07d9-3562-4cdf-b879-1a0cfc2f981b",
+            "name": "Khonjeni Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "babb4b82-894d-4abd-8933-3edfebb777e5",
+            "name": "Magunda Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "71c1112f-c1da-44b4-911c-adc02499d60b",
+            "name": "Makapwa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "55399f43-b983-443e-bda1-f6b238b5f0f8",
+            "name": "Malamulo Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "3f863ef7-1c52-4a5e-9a94-5c527df04611",
+            "name": "Mikolongwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "5c1978f1-f70e-4e9e-b064-e7ac8c8aaa16",
+            "name": "Mitengo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "c6adfc04-3976-40f6-88b6-1784688c54d4",
+            "name": "Molere Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "f22b9363-84fa-4d06-9f9b-777b57b4f369",
+            "name": "Thekerani Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "427fd71d-6027-4532-9399-573e89e7921a",
+            "name": "Thomasi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Urban",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "0c9e6155-9240-4379-9f01-b66a9ad774e1",
+            "name": "Thyolo District Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "d73c3856-1ae4-49f6-8fe5-2bb3fb8692cd",
+            "name": "Zoa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "6bf2cae9-c9c4-4240-ad75-f8e109466824"
+        },
+        {
+            "id": "88d111dd-7493-4052-9e37-9c5524000b4d",
+            "name": "Bimbi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "af49480e-543a-468e-84be-da11cbc96332",
+            "name": "Chamba Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "206a522b-de2a-4d44-b311-a7841077ff46",
+            "name": "Changalume Barracks",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "53b55fa6-1d31-4202-b089-28f191e2d085",
+            "name": "Chilipa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "46e515e3-372d-4f65-8d58-36e804615cb5",
+            "name": "Chingale Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "57d81866-5218-489f-9c89-1ededd515bec",
+            "name": "Chipini Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "98a2c060-cc84-48a0-a695-71ad5504b403",
+            "name": "Cobbe Barracks",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "cb0d37b9-6f36-43e2-adb8-bc85272ba103",
+            "name": "Domasi Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "477cc4b1-04b3-415d-a05d-0ea63e4c0699",
+            "name": "H Parker Sharp Dispensary",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "288e750b-7c31-4200-a17b-ca807c2b3429",
+            "name": "Lambulira Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "835b67ea-b340-48af-85d4-53d94bb32a68",
+            "name": "Likangala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "00f5d680-57b2-4abf-b76d-ecbd8a20b1e8",
+            "name": "Machinjiri Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "d6c7f708-156e-4475-a0f6-3535343d7164",
+            "name": "Magomero Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "b28bc237-1246-4918-8446-520eddbe7f16",
+            "name": "Makwapala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "af008488-cdd7-42ac-a834-754f9b5f324a",
+            "name": "Matawale Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "6837d815-3ff4-4eb5-8cb9-7b9451bf4d3e",
+            "name": "Matiya Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "1e6e02dd-6233-40c3-b633-c848e59b9467",
+            "name": "Mayaka Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "5a757bd1-78c1-4ba0-9367-e32d02b5f8f9",
+            "name": "M'mambo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "23a57383-599c-47e6-8530-9ee4657a6129",
+            "name": "Naisi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "c26e2f97-e01e-4d12-8296-8f080729853b",
+            "name": "Namadidi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "c867569a-6337-460a-a04f-a26e4fd131a2",
+            "name": "Namasalima Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "74f6b47c-9711-4814-a65e-38cf2c4d68f0",
+            "name": "Nasawa Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "908cc86e-6e08-47cf-812e-9cab38603319",
+            "name": "Ngwelelo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "f3469dcf-9855-4697-90d8-7835ef67f991",
+            "name": "Nkasala Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "76d5c117-1707-4deb-9f9c-65b2dc43ab8c",
+            "name": "Pirimiti Rural Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "56ce1208-217b-42bc-84d2-fad83e42e8a6",
+            "name": "Police College Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "fac831d6-43d2-4eb2-b4ae-751c5c2f7ccb",
+            "name": "Sadzi Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "99e33913-fecb-4967-a83c-d2641e7881a6",
+            "name": "St. Lukes Mission Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "CHAM",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "f18ee69e-94c7-4bf7-92c7-19fc7ca4a9d1",
+            "name": "Thondwe Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "a0d68c63-ef73-43fa-b6ca-331a2b419434",
+            "name": "Zilindo Health Centre",
+            "facility_type": "Health Centre",
+            "managing_authority": "Government",
+            "urban_rural": "Rural",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "97acbdac-5321-43ae-a8c7-d660d9f27c35",
+            "name": "Zomba Central Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        },
+        {
+            "id": "932da7bb-8d63-4f52-9c74-e79527cffd41",
+            "name": "Zomba Mental Hospital",
+            "facility_type": "Hospital",
+            "managing_authority": "Government",
+            "urban_rural": "Urban",
+            "district_id": "7f4face8-0f17-411f-a425-e0042d4aa10e"
+        }
+    ]
+}
