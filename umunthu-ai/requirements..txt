@@ -1,0 +1,9 @@
+Flask
+openai
+pinecone-client
+langchain-core
+langchain-openai
+langchain-pinecone
+python-dotenv
+numpy
+pandas
